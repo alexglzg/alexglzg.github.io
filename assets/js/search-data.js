@@ -407,6 +407,11 @@ ninja.data = [{
           description: "Adaptive sliding mode control for autonomous surface vessels under environmental disturbances",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_robust_control_asv/";
+            },},{id: "projects-collision-avoidance-for-autonomous-surface-vessels",
+          title: 'Collision Avoidance for Autonomous Surface Vessels',
+          description: "Collision avoidance for autonomous surface vessels",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_colav_asv/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
