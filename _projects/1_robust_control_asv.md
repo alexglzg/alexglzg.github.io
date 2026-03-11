@@ -23,4 +23,4 @@ Autonomous Surface Vehicles (ASVs) operate in complex environments subject to ex
 
 ## Related Publications
 
-{% bibliography --query @*[keywords=robust_asv] %}
+{% bibliography --query @*[project=robust_asv] %}
