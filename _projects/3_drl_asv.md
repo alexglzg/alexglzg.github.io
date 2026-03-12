@@ -1,7 +1,7 @@
 ---
 layout: page
-title: DRL for Autonomous Surface Vessels
-description: Deep Reinforcement Learning for Autonomous Surface Vessels under disturnamces.
+title: Learning for ASVs
+description: Deep reinforcement learning for autonomous surface vessel control under disturnamces.
 img: assets/img/projects/drl.png
 importance: 3
 category: research

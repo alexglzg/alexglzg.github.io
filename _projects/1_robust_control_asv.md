@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Robust Control of Autonomous Surface Vessels
+title: Robust Control of ASVs
 description: Adaptive sliding mode control for autonomous surface vessels under environmental disturbances.
 img: assets/img/projects/aitsmc.png
 importance: 2

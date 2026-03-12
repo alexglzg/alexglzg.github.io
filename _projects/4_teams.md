@@ -2,7 +2,7 @@
 layout: page
 title: ASV-UAV Heterogeneous Teams
 description: Control for marine-aerial robotic teams.
-img: assets/img/projects/usv-uav.png
+img: assets/img/projects/robust_uuv.png
 importance: 4
 category: research
 ---
