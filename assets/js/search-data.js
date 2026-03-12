@@ -404,14 +404,34 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-robust-control-of-autonomous-surface-vessels",
           title: 'Robust Control of Autonomous Surface Vessels',
-          description: "Adaptive sliding mode control for autonomous surface vessels under environmental disturbances",
+          description: "Adaptive sliding mode control for autonomous surface vessels under environmental disturbances.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_robust_control_asv/";
             },},{id: "projects-collision-avoidance-for-autonomous-surface-vessels",
           title: 'Collision Avoidance for Autonomous Surface Vessels',
-          description: "Collision avoidance for autonomous surface vessels",
+          description: "Collision avoidance for autonomous surface vessels.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_colav_asv/";
+            },},{id: "projects-drl-for-autonomous-surface-vessels",
+          title: 'DRL for Autonomous Surface Vessels',
+          description: "Deep Reinforcement Learning for Autonomous Surface Vessels under disturnamces.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_drl_asv/";
+            },},{id: "projects-asv-uav-heterogeneous-teams",
+          title: 'ASV-UAV Heterogeneous Teams',
+          description: "Control for marine-aerial robotic teams.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_teams/";
+            },},{id: "projects-robust-control-of-underwater-vehicles",
+          title: 'Robust Control of Underwater Vehicles',
+          description: "Adaptive sliding mode control for unmanned underwater vehicles.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_robust_uuv/";
+            },},{id: "projects-data-enabled-controller-optimization",
+          title: 'Data-Enabled Controller Optimization',
+          description: "Data-driven controller gain tuning optimization.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_data_learning/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
