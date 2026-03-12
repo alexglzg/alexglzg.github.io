@@ -41,6 +41,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/iros2025/";
           
         },
+      },{id: "post-summer-school-on-robust-model-predictive-control-with-casadi",
+        
+          title: "Summer School on Robust Model Predictive Control with CasADi",
+        
+        description: "Summer School at University of Freiburg.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/robust/";
+          
+        },
       },{id: "post-presentation-at-ecc-2025",
         
           title: "Presentation at ECC 2025",
