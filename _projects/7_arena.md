@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fast Motion Planning in Highly Structured Environments
+title: Fast Motion Planning in Structured Environments
 description: Exploiting environment structure to develop efficient motion planners.
 img: assets/img/projects/arena.jpg
 importance: 1

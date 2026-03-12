@@ -63,8 +63,3 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
-
-
-<!-- Interaction-Aware Motion Planning (MPPI work on multiple vessels, adding link to project at TU Delft https://autonomousrobots.nl/paper_websites/ia-mppi)
-Self-Reconfigurable Robotic Boats (work on multiple vessels assembling into structures)
-Safe Distributed Motion Planning (ADMM-CBF work on maglevs, accepted for ECC 2026) --> -->

@@ -2,7 +2,7 @@
 layout: page
 title: Robust Control of Underwater Vehicles
 description: Adaptive sliding mode control for unmanned underwater vehicles.
-img: assets/img/projects/usv-uav.png
+img: assets/img/projects/robust_uuv.png
 importance: 5
 category: research
 ---
