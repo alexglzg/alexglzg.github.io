@@ -30,26 +30,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-presentation-at-iros-2025",
         
-          title: "a post with plotly.js",
+          title: "Presentation at IROS 2025",
         
-        description: "this is what included plotly.js code could look like",
+        description: "Presentation on model predictive control and control barrier functions for autonomous surface vessels at IEEE IROS 2025.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/blog/2025/iros2025/";
           
         },
-      },{id: "post-a-post-with-image-galleries",
+      },{id: "post-presentation-at-icra-2024",
         
-          title: "a post with image galleries",
+          title: "Presentation at ICRA 2024",
         
-        description: "this is what included image galleries could look like",
+        description: "Presentation on model predictive control and control barrier functions for autonomous surface vessels at IEEE ICRA 2024.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/photo-gallery/";
+            window.location.href = "/blog/2024/icra2024/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -63,224 +63,26 @@ ninja.data = [{
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
           
         },
-      },{id: "post-a-post-with-tabs",
+      },{id: "post-presentation-at-icra-2023",
         
-          title: "a post with tabs",
+          title: "Presentation at ICRA 2023",
         
-        description: "this is what included tabs in a post could look like",
+        description: "Presentation on deep reinforcement learning for autonomous surface vessels at IEEE ICRA 2023.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/tabs/";
+            window.location.href = "/blog/2023/icra2023/";
           
         },
-      },{id: "post-a-post-with-typograms",
+      },{id: "post-control-robusto-para-barcos-autónomos-ciditec",
         
-          title: "a post with typograms",
+          title: "Control Robusto para Barcos Autónomos — CIDiTec",
         
-        description: "this is what included typograms code could look like",
+        description: "CIDiTec video feature on developing algorithms to counteract external factors in autonomous boats.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/typograms/";
-          
-        },
-      },{id: "post-a-post-that-can-be-cited",
-        
-          title: "a post that can be cited",
-        
-        description: "this is what a post that can be cited looks like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/post-citation/";
-          
-        },
-      },{id: "post-a-post-with-pseudo-code",
-        
-          title: "a post with pseudo code",
-        
-        description: "this is what included pseudo code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/pseudocode/";
-          
-        },
-      },{id: "post-a-post-with-code-diff",
-        
-          title: "a post with code diff",
-        
-        description: "this is how you can display code diffs",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/code-diff/";
-          
-        },
-      },{id: "post-a-post-with-advanced-image-components",
-        
-          title: "a post with advanced image components",
-        
-        description: "this is what advanced image components could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/advanced-images/";
-          
-        },
-      },{id: "post-a-post-with-vega-lite",
-        
-          title: "a post with vega lite",
-        
-        description: "this is what included vega lite code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/vega-lite/";
-          
-        },
-      },{id: "post-a-post-with-geojson",
-        
-          title: "a post with geojson",
-        
-        description: "this is what included geojson code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/geojson-map/";
-          
-        },
-      },{id: "post-a-post-with-echarts",
-        
-          title: "a post with echarts",
-        
-        description: "this is what included echarts code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/echarts/";
-          
-        },
-      },{id: "post-a-post-with-chart-js",
-        
-          title: "a post with chart.js",
-        
-        description: "this is what included chart.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/chartjs/";
-          
-        },
-      },{id: "post-a-post-with-tikzjax",
-        
-          title: "a post with TikZJax",
-        
-        description: "this is what included TikZ code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/tikzjax/";
-          
-        },
-      },{id: "post-a-post-with-bibliography",
-        
-          title: "a post with bibliography",
-        
-        description: "an example of a blog post with bibliography",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/post-bibliography/";
-          
-        },
-      },{id: "post-a-post-with-jupyter-notebook",
-        
-          title: "a post with jupyter notebook",
-        
-        description: "an example of a blog post with jupyter notebook",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/jupyter-notebook/";
-          
-        },
-      },{id: "post-a-post-with-custom-blockquotes",
-        
-          title: "a post with custom blockquotes",
-        
-        description: "an example of a blog post with custom blockquotes",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/custom-blockquotes/";
-          
-        },
-      },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
-        
-          title: "a post with table of contents on a sidebar",
-        
-        description: "an example of a blog post with table of contents on a sidebar",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/sidebar-table-of-contents/";
-          
-        },
-      },{id: "post-a-post-with-audios",
-        
-          title: "a post with audios",
-        
-        description: "this is what included audios could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/audios/";
-          
-        },
-      },{id: "post-a-post-with-videos",
-        
-          title: "a post with videos",
-        
-        description: "this is what included videos could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/videos/";
-          
-        },
-      },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
-        
-          title: "displaying beautiful tables with Bootstrap Tables",
-        
-        description: "an example of how to use Bootstrap Tables",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/tables/";
-          
-        },
-      },{id: "post-a-post-with-table-of-contents",
-        
-          title: "a post with table of contents",
-        
-        description: "an example of a blog post with table of contents",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/table-of-contents/";
-          
-        },
-      },{id: "post-a-post-with-giscus-comments",
-        
-          title: "a post with giscus comments",
-        
-        description: "an example of a blog post with giscus comments",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2022/giscus-comments/";
+            window.location.href = "/blog/2022/ciditec-control/";
           
         },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
@@ -294,103 +96,147 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "post-a-post-with-redirect",
+      },{id: "post-barcos-autónomos-diseñados-contra-viento-y-marea",
         
-          title: "a post with redirect",
+          title: "Barcos Autónomos Diseñados Contra Viento y Marea",
         
-        description: "you can also redirect to assets like pdf",
+        description: "Transferencia Tec feature on designing more robust controllers for unmanned vessels navigating under environmental disturbances.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/assets/pdf/example_pdf.pdf";
+            window.location.href = "/blog/2022/barcos-autonomos/";
           
         },
-      },{id: "post-a-post-with-diagrams",
+      },{id: "post-innovan-39-a-profundidad-39-en-concurso-internacional-de-robótica",
         
-          title: "a post with diagrams",
+          title: "Innovan &#39;A Profundidad&#39; en Concurso Internacional de Robótica",
         
-        description: "an example of a blog post with diagrams",
+        description: "VantTec se convirtió en el primer equipo mexicano en participar en RoboSub y ganó el tercer lugar general.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/diagrams/";
+            window.location.href = "/blog/2020/robosub-innovan/";
           
         },
-      },{id: "post-a-distill-style-blog-post",
+      },{id: "post-unmanned-surface-vehicle-for-the-2020-roboboat-competition",
         
-          title: "a distill-style blog post",
+          title: "Unmanned Surface Vehicle for the 2020 RoboBoat Competition",
         
-        description: "an example of a distill-style blog post and main elements",
+        description: "ROS Discourse post about VantTec&#39;s USV platform that won all categories at RoboBoat 2020.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/distill/";
+            window.location.href = "/blog/2020/ros-discourse-roboboat/";
           
         },
-      },{id: "post-a-post-with-twitter",
+      },{id: "post-navegan-digitalmente-y-ganan",
         
-          title: "a post with twitter",
+          title: "Navegan Digitalmente y Ganan",
         
-        description: "an example of a blog post with twitter",
+        description: "Norte Monterrey coverage of VantTec winning RoboBoat 2020 despite COVID-19 challenges.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2020/twitter/";
+            window.location.href = "/blog/2020/navegan-digitalmente/";
           
         },
-      },{id: "post-a-post-with-disqus-comments",
+      },{id: "post-neolaredense-campeón-mundial-en-robótica",
         
-          title: "a post with disqus comments",
+          title: "Neolaredense, Campeón Mundial en Robótica",
         
-        description: "an example of a blog post with disqus comments",
+        description: "El Mañana feature on winning the RoboBoat 2020 international competition.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/disqus-comments/";
+            window.location.href = "/blog/2020/neolaredense-campeon/";
           
         },
-      },{id: "post-a-post-with-math",
+      },{id: "post-triunfan-alumnos-de-ingeniería-en-competencia-internacional-roboboat",
         
-          title: "a post with math",
+          title: "Triunfan Alumnos de Ingeniería en Competencia Internacional RoboBoat",
         
-        description: "an example of a blog post with some math",
+        description: "VantTec wins first place in all categories at the international RoboBoat 2020 competition.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/math/";
+            window.location.href = "/blog/2020/roboboat-sweep/";
           
         },
-      },{id: "post-a-post-with-code",
+      },{id: "post-modeling-robotic-boats-in-simulink-mathworks-guest-post",
         
-          title: "a post with code",
+          title: "Modeling Robotic Boats in Simulink — MathWorks Guest Post",
         
-        description: "an example of a blog post with some code",
+        description: "Guest blog post on the MathWorks Racing Lounge about using MATLAB and Simulink for USV path planning and dynamic modeling.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/code/";
+            window.location.href = "/blog/2019/mathworks-simulink/";
           
         },
-      },{id: "post-a-post-with-images",
+      },{id: "post-premio-fao-jóvenes-destacados-de-tamaulipas",
         
-          title: "a post with images",
+          title: "Premio FAO - Jóvenes Destacados de Tamaulipas",
         
-        description: "this is what included images could look like",
+        description: "Recognized with the FAO youth award in Tamaulipas for outstanding achievements.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/images/";
+            window.location.href = "/blog/2018/premio-fao/";
           
         },
-      },{id: "post-a-post-with-formatting-and-links",
+      },{id: "post-tiene-experiencia-de-robótica-en-españa",
         
-          title: "a post with formatting and links",
+          title: "Tiene Experiencia de Robótica en España",
         
-        description: "march &amp; april, looking forward to summer",
+        description: "Tec de Monterrey coverage of participation in the Norman Foster Foundation Robotics Atelier alongside international specialists.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/formatting-and-links/";
+            window.location.href = "/blog/2018/foster-tec/";
+          
+        },
+      },{id: "post-norman-foster-foundation-robotics-atelier-2018",
+        
+          title: "Norman Foster Foundation Robotics Atelier 2018",
+        
+        description: "Selected to participate in the second edition of the Norman Foster Foundation Robotics Atelier in Madrid, investigating new ways of reflecting on the physics of architecture.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/norman-foster/";
+          
+        },
+      },{id: "post-sobresalen-alumnos-del-tec-en-torneo-de-vehículos-autónomos-acuáticos",
+        
+          title: "Sobresalen Alumnos del Tec en Torneo de Vehículos Autónomos Acuáticos",
+        
+        description: "VantTec student team earns medals at the international RoboBoat competition.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/roboboat-medals/";
+          
+        },
+      },{id: "post-capacidad-y-talento-para-vencer",
+        
+          title: "Capacidad y Talento Para Vencer",
+        
+        description: "Milenio feature on Tec de Monterrey students who designed, programmed, and built a robot boat that won a prize in Florida.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/capacidad-talento/";
+          
+        },
+      },{id: "post-crean-primer-barco-robot-mexicano",
+        
+          title: "Crean Primer Barco Robot Mexicano",
+        
+        description: "With the development of an unmanned autonomous vehicle, students from Tec de Monterrey stood out at the international RoboBoat 2017 competition.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2017/primer-barco-robot/";
           
         },
       },{id: "books-the-godfather",
