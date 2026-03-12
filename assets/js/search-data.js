@@ -41,6 +41,39 @@ ninja.data = [{
             window.location.href = "/blog/2025/iros2025/";
           
         },
+      },{id: "post-presentation-at-ecc-2025",
+        
+          title: "Presentation at ECC 2025",
+        
+        description: "Presentation at IEEE ECC 2025.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ecc2025/";
+          
+        },
+      },{id: "post-navigate-summer-school",
+        
+          title: "NAVIGATE Summer School",
+        
+        description: "Connected autonomous vehicles and Intelligent Transportation Systems.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/navigate/";
+          
+        },
+      },{id: "post-workshop-at-mit",
+        
+          title: "Workshop at MIT",
+        
+        description: "Workshop on optimal control problems and model predictive control for autonomous systems.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/mit-ws/";
+          
+        },
       },{id: "post-presentation-at-icra-2024",
         
           title: "Presentation at ICRA 2024",
@@ -244,16 +277,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-paper-accepted-at-icra-2026-on-fast-motion-planning",
+          title: 'Paper accepted at ICRA 2026 on fast motion planning.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-paper-accepted-at-ecc-2026-on-safe-distributed-motion-planning",
+          title: 'Paper accepted at ECC 2026 on safe distributed motion planning.',
           description: "",
           section: "News",},{id: "projects-safe-distributed-motion-planning",
           title: 'Safe Distributed Motion Planning',
