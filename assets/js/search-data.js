@@ -402,7 +402,17 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-robust-control-of-asvs",
+          section: "News",},{id: "projects-safe-distributed-motion-planning",
+          title: 'Safe Distributed Motion Planning',
+          description: "Distributed motion planning for multi-agent systems with safety guarantees.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_admm/";
+            },},{id: "projects-interaction-aware-motion-planning",
+          title: 'Interaction-Aware Motion Planning',
+          description: "Sampling-based motion planning for interactions in urban environments.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_interaction/";
+            },},{id: "projects-robust-control-of-asvs",
           title: 'Robust Control of ASVs',
           description: "Adaptive sliding mode control for autonomous surface vessels under environmental disturbances.",
           section: "Projects",handler: () => {
@@ -432,8 +442,8 @@ ninja.data = [{
           description: "Data-driven controller gain tuning optimization.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_data_learning/";
-            },},{id: "projects-fast-motion-planning-in-highly-structured-environments",
-          title: 'Fast Motion Planning in Highly Structured Environments',
+            },},{id: "projects-fast-motion-planning-in-structured-environments",
+          title: 'Fast Motion Planning in Structured Environments',
           description: "Exploiting environment structure to develop efficient motion planners.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_arena/";
