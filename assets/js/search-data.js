@@ -96,6 +96,17 @@ ninja.data = [{
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
           
         },
+      },{id: "post-talk-at-tu-delft",
+        
+          title: "Talk at TU Delft",
+        
+        description: "Talk on past research and work at MECO.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/delft-talk/";
+          
+        },
       },{id: "post-presentation-at-icra-2023",
         
           title: "Presentation at ICRA 2023",
