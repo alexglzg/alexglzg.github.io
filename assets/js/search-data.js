@@ -402,19 +402,19 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-robust-control-of-autonomous-surface-vessels",
-          title: 'Robust Control of Autonomous Surface Vessels',
+          section: "News",},{id: "projects-robust-control-of-asvs",
+          title: 'Robust Control of ASVs',
           description: "Adaptive sliding mode control for autonomous surface vessels under environmental disturbances.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_robust_control_asv/";
-            },},{id: "projects-collision-avoidance-for-autonomous-surface-vessels",
-          title: 'Collision Avoidance for Autonomous Surface Vessels',
-          description: "Collision avoidance for autonomous surface vessels.",
+            },},{id: "projects-collision-avoidance-for-asvs",
+          title: 'Collision Avoidance for ASVs',
+          description: "Real-time optimization-based collision avoidance for autonomous surface vessels.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_colav_asv/";
-            },},{id: "projects-drl-for-autonomous-surface-vessels",
-          title: 'DRL for Autonomous Surface Vessels',
-          description: "Deep Reinforcement Learning for Autonomous Surface Vessels under disturnamces.",
+            },},{id: "projects-learning-for-asvs",
+          title: 'Learning for ASVs',
+          description: "Deep reinforcement learning for autonomous surface vessel control under disturnamces.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_drl_asv/";
             },},{id: "projects-asv-uav-heterogeneous-teams",
@@ -432,6 +432,21 @@ ninja.data = [{
           description: "Data-driven controller gain tuning optimization.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_data_learning/";
+            },},{id: "projects-fast-motion-planning-in-highly-structured-environments",
+          title: 'Fast Motion Planning in Highly Structured Environments',
+          description: "Exploiting environment structure to develop efficient motion planners.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_arena/";
+            },},{id: "projects-safe-motion-planning-and-control",
+          title: 'Safe Motion Planning and Control',
+          description: "Optimization-based planning and control with safety guarantees.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_safe_asv/";
+            },},{id: "projects-self-reconfiguring-boats",
+          title: 'Self-Reconfiguring Boats',
+          description: "Modular robotic boats which can assembly into marine structures.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_reconf/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
