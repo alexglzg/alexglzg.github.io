@@ -3,7 +3,7 @@ layout: post
 title: Talk at TU Delft
 date: 2024-04-16
 description: Talk on past research and work at MECO.
-tags: workshop
+tags: talk
 thumbnail: assets/img/blog/talk_tudelft.jpeg
 ---
 
