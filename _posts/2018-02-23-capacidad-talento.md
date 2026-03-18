@@ -11,7 +11,7 @@ Son alumnos del Tec de Monterrey; se reunieron para participar en una competenci
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/blog/milenio2017.jpeg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/blog/milenio2018.jpeg" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
