@@ -25,7 +25,7 @@ nav_order: 5
 ## Mentoring & Supervision
 ---
 
-**[Sebastiaan Wyns]** (2024-2025)  
+**Sebastiaan Wyns** (2024-2025)  
 *Thesis: "Efficient Free Space Representation for Robot Motion Planning Using Interconnected Rectangular Corridors"* [[Thesis PDF]](https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE57465975)
 
 **Related Publications:**
@@ -35,7 +35,7 @@ nav_order: 5
 
 ---
 
-**[Stan Servaes & Bavo Tistaert]** (2024-2025)  
+**Stan Servaes & Bavo Tistaert** (2024-2025)  
 *Thesis: " Decentralised Motion Planning for Holonomic Multi-Agent Systems Using a Hybrid ADMM-CBF Approach: Application to Industrial Magnetic Levitation Platforms"* [[Thesis PDF]](https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE48018504)
 
 **Related Publications:**
