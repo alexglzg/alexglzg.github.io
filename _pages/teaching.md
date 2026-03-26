@@ -30,7 +30,7 @@ nav_order: 5
 
 **Related Publications:**
 <div class="publications">
-  {% bibliography -f papers -q @*[project=~/thesis_wyns/] %}
+  {% bibliography -f papers -q @*[html=https://arxiv.org/abs/2602.09714] %}
 </div>
 
 ---
@@ -40,7 +40,7 @@ nav_order: 5
 
 **Related Publications:**
 <div class="publications">
-  {% bibliography -f papers -q @*[project=~/thesis_tistaert/] %}
+  {% bibliography -f papers -q @*[html=https://arxiv.org/abs/2603.19838] %}
 </div>
 
 
@@ -52,6 +52,6 @@ nav_order: 5
 
 **Related Publications:**
 <div class="publications">
-  {% bibliography -f papers -q @*[project=~/thesis_claes/] %}
+  {% bibliography -f papers -q @*[project=thesis_claes] %}
 </div>
 
