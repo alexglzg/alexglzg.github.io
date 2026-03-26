@@ -1,15 +1,55 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
-nav: false
-nav_order: 6
-calendar: true
+title: teaching & mentoring
+description: courses I have assisted and students I have supervised.
+nav: true
+nav_order: 5
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Teaching Assistant
+---
+| Period | Course | Institution |
+| :--- | :--- | :--- |
+| Fall 2025 | **Systems and Control Theory** | [KU Leuven] |
+| Fall 2024 | **Systems and Control Theory** | [KU Leuven] |
+| Spring 2024 | **Sensors and Measurement Systems** | [KU Leuven] |
+| Fall 2023 | **Systems and Control Theory** | [KU Leuven] |
+| Spring 2023 | **Sensors and Measurement Systems** | [KU Leuven] |
+| Fall 2022 | **Systems and Control Theory** | [KU Leuven] |
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+<br>
 
-{% include courses.liquid %}
+## Mentoring & Supervision
+---
+
+**[Sebastiaan Wyns]** (2024-2025)  
+*Thesis: "Efficient Free Space Representation for Robot Motion Planning Using Interconnected Rectangular Corridors"* [[Thesis PDF]](https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE57465975)
+
+**Related Publications:**
+<div class="publications">
+  {% bibliography -f papers -q @*[project*=thesis_wyns] %}
+</div>
+
+---
+
+**[Stan Servaes & Bavo Tistaert]** (2024-2025)  
+*Thesis: " Decentralised Motion Planning for Holonomic Multi-Agent Systems Using a Hybrid ADMM-CBF Approach: Application to Industrial Magnetic Levitation Platforms"* [[Thesis PDF]](https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE48018504)
+
+**Related Publications:**
+<div class="publications">
+  {% bibliography -f papers -q @*[project*=thesis_tistaert] %}
+</div>
+
+
+---
+
+### Master's Thesis
+**Yannick Claes & Lucas Tielens** (2023 - 2024)  
+*Thesis: "Smooth control strategies for trajectory tracking on computationally constrained mobile robots with discontinuous localization"* [[Thesis PDF]]([your_link_here](https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE19285551))
+
+**Related Publications:**
+<div class="publications">
+  {% bibliography -f papers -q @*[project*=thesis_claes] %}
+</div>
+
