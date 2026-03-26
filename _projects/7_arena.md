@@ -15,4 +15,4 @@ For industries where robots operate in structured environments, such as factory 
 
 ## Related Publications
 
-{% bibliography --query @*[project*=arena] %}
+{% bibliography --query @*[project=~/arena/] %}

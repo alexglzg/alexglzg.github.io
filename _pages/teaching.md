@@ -8,7 +8,9 @@ nav_order: 5
 ---
 
 ## Teaching Assistant
+
 ---
+
 | Period | Course | Institution |
 | :--- | :--- | :--- |
 | Fall 2025 | **Systems and Control Theory** | [KU Leuven] |
@@ -28,7 +30,7 @@ nav_order: 5
 
 **Related Publications:**
 <div class="publications">
-  {% bibliography -f papers -q @*[project*=thesis_wyns] %}
+  {% bibliography -f papers -q @*[project=~/thesis_wyns/] %}
 </div>
 
 ---
@@ -38,7 +40,7 @@ nav_order: 5
 
 **Related Publications:**
 <div class="publications">
-  {% bibliography -f papers -q @*[project*=thesis_tistaert] %}
+  {% bibliography -f papers -q @*[project=~/thesis_tistaert/] %}
 </div>
 
 
@@ -50,6 +52,6 @@ nav_order: 5
 
 **Related Publications:**
 <div class="publications">
-  {% bibliography -f papers -q @*[project*=thesis_claes] %}
+  {% bibliography -f papers -q @*[project=~/thesis_claes/] %}
 </div>
 

@@ -15,4 +15,4 @@ Multi-agent systems are useful for diverse industries and domains, as they can e
 
 ## Related Publications
 
-{% bibliography --query @*[project*=admm] %}
+{% bibliography --query @*[project=~/admm/] %}
