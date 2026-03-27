@@ -63,7 +63,7 @@ ninja.data = [{
         
           title: "Presentation at ECC 2025",
         
-        description: "Presentation at IEEE ECC 2025.",
+        description: "Presentation at the European Control Conference.",
         section: "Posts",
         handler: () => {
           
@@ -74,16 +74,16 @@ ninja.data = [{
         
           title: "NAVIGATE Summer School",
         
-        description: "Connected autonomous vehicles and Intelligent Transportation Systems.",
+        description: "Connected autonomous vehicles and intelligent transportation systems.",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025/navigate/";
           
         },
-      },{id: "post-workshop-at-mit",
+      },{id: "post-workshop-organization-at-mit",
         
-          title: "Workshop at MIT",
+          title: "Workshop Organization at MIT",
         
         description: "Workshop on optimal control problems and model predictive control for autonomous systems.",
         section: "Posts",
