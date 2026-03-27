@@ -24,6 +24,7 @@ nav_order: 5
 
 ## Mentoring & Supervision
 ---
+### Master's Thesis
 
 **Sebastiaan Wyns** (2024-2025)  
 *Thesis: "Efficient Free Space Representation for Robot Motion Planning Using Interconnected Rectangular Corridors"* [[Thesis PDF]](https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE57465975)
@@ -46,7 +47,6 @@ nav_order: 5
 
 ---
 
-### Master's Thesis
 **Yannick Claes & Lucas Tielens** (2023 - 2024)  
 *Thesis: "Smooth control strategies for trajectory tracking on computationally constrained mobile robots with discontinuous localization"* [[Thesis PDF]](https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE19285551)
 
