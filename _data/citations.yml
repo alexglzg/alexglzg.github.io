@@ -1,14 +1,10 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-30'
 papers:
   j5zC8uMAAAAJ:0EnyYjriUFMC:
-    citations: 21
+    citations: 22
     title: 'Novel adaptive law for super-twisting controller: USV tracking control under disturbances'
     year: '2023'
-  j5zC8uMAAAAJ:2osOgNQ5qMEC:
-    citations: 1
-    title: VantTec Technical Design Report 2019
-    year: '2019'
   j5zC8uMAAAAJ:3fE2CSJIrl8C:
     citations: 16
     title: Robust Model Predictive Control with Control Barrier Functions for Autonomous Surface Vessels
@@ -17,30 +13,14 @@ papers:
     citations: 0
     title: 'Optimizing unmanned surface vehicle control: A data-enabled learning approach'
     year: '2026'
-  j5zC8uMAAAAJ:4TOpqqG69KYC:
-    citations: 0
-    title: Safety-Critical Planning and Control for Autonomous Surface Vessels Through Narrow Spaces
-    year: '2025'
   j5zC8uMAAAAJ:5nxA0vEk-isC:
     citations: 0
     title: Adaptive sliding mode control for an autonomous surface vehicle subject to wind, waves, and currents
-    year: Unknown Year
-  j5zC8uMAAAAJ:9ZlFYXVOiuMC:
+    year: '2022'
+  j5zC8uMAAAAJ:7PzlFSSx8tAC:
     citations: 0
-    title: A Hybrid Method for Multi-Agent Motion Planning on Industrial Magnetic Levitation Platforms
+    title: 'Multi-Agent Motion Planning on Industrial Magnetic Levitation Platforms: A Hybrid ADMM-HOCBF approach'
     year: '2026'
-  j5zC8uMAAAAJ:9yKSN-GCB0IC:
-    citations: 0
-    title: MTM Trinity Technical Design Report
-    year: Unknown Year
-  j5zC8uMAAAAJ:IjCSPb-OGe4C:
-    citations: 0
-    title: 'RoboBoat 2020: VantTec Technical Design Report VTec S-III'
-    year: '2020'
-  j5zC8uMAAAAJ:KlAtU1dfN6UC:
-    citations: 0
-    title: Safety-Critical Distributed Motion Predictive Control with Control Barrier Functions
-    year: '2024'
   j5zC8uMAAAAJ:LkGwnXOMwfcC:
     citations: 52
     title: Path-following and LiDAR-based obstacle avoidance via NMPC for an autonomous surface vehicle
@@ -53,16 +33,12 @@ papers:
     citations: 22
     title: Deep Reinforcement Learning Based Tracking Control of an Autonomous Surface Vessel in Natural Waters
     year: '2023'
-  j5zC8uMAAAAJ:QIV2ME_5wuYC:
-    citations: 0
-    title: A Hybrid Multi-Agent Motion Planner for Industrial Magnetic Levitation Platforms
-    year: '2026'
   j5zC8uMAAAAJ:Se3iqnhoufwC:
     citations: 0
     title: Adaptive Integral Terminal Sliding Mode Guidance and Control for a UUV Under Perturbations
     year: '2022'
   j5zC8uMAAAAJ:Tyk-4Ss8FVUC:
-    citations: 173
+    citations: 174
     title: Guidance and Control Based on Adaptive Sliding Mode Strategy for a USV Subject to Uncertainties
     year: '2021'
   j5zC8uMAAAAJ:UeHWp8X0CEIC:
@@ -101,26 +77,10 @@ papers:
     citations: 0
     title: Smooth Control Strategies for Path-Following on Computationally Constrained Mobile Robots with Discontinuous Localization
     year: '2025'
-  j5zC8uMAAAAJ:d1gkVwhDpl0C:
-    citations: 0
-    title: Autonomous Surface Vehicle For Surveillance-like Activities
-    year: Unknown Year
-  j5zC8uMAAAAJ:dhFuZR0502QC:
-    citations: 0
-    title: Fast Motion Planning Using Rectangular Corridor Representations of Structured Environments
-    year: '2026'
   j5zC8uMAAAAJ:eQOLeE2rZwMC:
     citations: 17
     title: Adaptive Integral Terminal Sliding Mode Control for an Unmanned Surface Vehicle Against External Disturbances
     year: '2021'
-  j5zC8uMAAAAJ:hqOjcs7Dif8C:
-    citations: 0
-    title: Adaptive Nonsingular Terminal Sliding Mode Control for Unmanned Surface Vehicles
-    year: '2023'
-  j5zC8uMAAAAJ:kNdYIx-mwKoC:
-    citations: 0
-    title: A simple software abstraction for two-agent optimal control
-    year: '2024'
   j5zC8uMAAAAJ:mVmsd5A6BfQC:
     citations: 0
     title: Fast Motion Planning for Non-Holonomic Mobile Robots via a Rectangular Corridor Representation of Structured Environments
