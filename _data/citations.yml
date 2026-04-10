@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-10'
 papers:
   j5zC8uMAAAAJ:0EnyYjriUFMC:
-    citations: 22
+    citations: 23
     title: 'Novel adaptive law for super-twisting controller: USV tracking control under disturbances'
     year: '2023'
   j5zC8uMAAAAJ:3fE2CSJIrl8C:
@@ -30,7 +30,7 @@ papers:
     title: Safe Motion Planning and Control Using Predictive and Adaptive Barrier Methods for Autonomous Surface Vessels
     year: '2025'
   j5zC8uMAAAAJ:MXK_kJrjxJIC:
-    citations: 22
+    citations: 23
     title: Deep Reinforcement Learning Based Tracking Control of an Autonomous Surface Vessel in Natural Waters
     year: '2023'
   j5zC8uMAAAAJ:Se3iqnhoufwC:
@@ -54,7 +54,7 @@ papers:
     title: A Real-Time NMPC Guidance Law and Robust Control for an Autonomous Surface Vehicle
     year: '2021'
   j5zC8uMAAAAJ:Y0pCki6q_DkC:
-    citations: 66
+    citations: 67
     title: 'Adaptive dynamic programming and deep reinforcement learning for the control of an unmanned surface vehicle: Experimental results'
     year: '2021'
   j5zC8uMAAAAJ:YOwf2qJgpHMC:
