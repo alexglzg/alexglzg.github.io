@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at IEEE CCTA 2026 on safe time-optimal motion planning and control.
+Paper accepted at IEEE CCTA 2026 on safe time-optimal point-to-point motion planning and control.
