@@ -284,14 +284,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-paper-accepted-at-icra-2026-on-fast-motion-planning",
-          title: 'Paper accepted at ICRA 2026 on fast motion planning.',
+            },},{id: "news-paper-accepted-at-icra-2026-on-fast-motion-planning-of-non-holonomic-amrs",
+          title: 'Paper accepted at ICRA 2026 on fast motion planning of non-holonomic AMRs.',
           description: "",
           section: "News",},{id: "news-paper-accepted-at-ecc-2026-on-safe-distributed-motion-planning",
           title: 'Paper accepted at ECC 2026 on safe distributed motion planning.',
           description: "",
-          section: "News",},{id: "news-paper-accepted-at-ieee-ccta-2026-on-safe-time-optimal-motion-planning-and-control",
-          title: 'Paper accepted at IEEE CCTA 2026 on safe time-optimal motion planning and control....',
+          section: "News",},{id: "news-paper-accepted-at-ieee-ccta-2026-on-safe-time-optimal-point-to-point-motion-planning-and-control",
+          title: 'Paper accepted at IEEE CCTA 2026 on safe time-optimal point-to-point motion planning and...',
           description: "",
           section: "News",},{id: "projects-safe-distributed-motion-planning",
           title: 'Safe Distributed Motion Planning',
