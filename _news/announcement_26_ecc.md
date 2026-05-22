@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted to ECC 2026 on safe distributed motion planning.
+Our paper on safe distributed motion planning has been accepted to ECC 2026. This publication originated from the thesis work of two former master's students I co-advised.

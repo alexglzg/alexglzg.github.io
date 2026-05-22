@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper titled “Self-Reconfiguring Modular Robotic Boats” was accepted in *Nature Communications*. This work presents FloatForm, a modular robotic boat system that enables autonomous self-assembly, self-reconfiguration, and collective motion on water through a hybrid coordination framework.
+"Self-Reconfiguring Modular Robotic Boats" was accepted in Nature Communications. This paper introduces FloatForm, a modular system for autonomous self-assembly and collective motion on water. This is a result of a multi-year collaboration that began during my time as a visiting researcher at MIT.

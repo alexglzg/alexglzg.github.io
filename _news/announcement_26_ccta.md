@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted to CCTA 2026 on safe time-optimal point-to-point motion planning and control.
+A paper on safe time-optimal point-to-point motion planning and control was accepted to CCTA 2026. This work is a collaboration with a TUM PhD researcher who visited our lab in KU Leuven.
