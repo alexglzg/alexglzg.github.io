@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at ICRA 2026 on fast motion planning of non-holonomic AMRs.
+One paper was accepted to ICRA 2026 on fast motion planning of non-holonomic AMRs. Excited to share the results in Vienna!
