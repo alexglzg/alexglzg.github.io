@@ -7,10 +7,14 @@ importance: 1
 category: research
 ---
 
-Different systems operate in environments where safety-critical solutions are required. That is the case of ASVs operating in inland waterways, or AMRs in unstructured spaces, as they must deal with narrow environments where maneuverability is essential and complex. Model predictive control (MPC) has been widely used for motion planning and control, but it does not provide any formal safety guarantees and the complexity may explode with the number of obstacles or complex constraints. Control barrier functions (CBFs) have been proposed to formally guarantee safety. Thus, designing hybrid frameworks combining MPC and CBFs is a promising way to achieve safety, both against enviornmental disturbances and throguh narrow channels.
+Different systems operate in environments where safety-critical solutions are required. That is the case for instance of ASVs operating in inland waterways, or AMRs in unstructured spaces, as they must deal with narrow environments where maneuverability is essential and complex. Model predictive control (MPC) has been widely used for motion planning and control, but it does not provide any formal safety guarantees and the complexity may explode with the number of obstacles or complex constraints. Control barrier functions (CBFs) have been proposed to formally guarantee safety. Thus, designing hybrid frameworks combining MPC and CBFs is a promising way to achieve safety, both against enviornmental disturbances and throguh narrow channels.
 
 <div class="embed-responsive embed-responsive-16by9 mt-3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ogbfAdaSyIc" allowfullscreen></iframe>
+</div>
+
+<div class="embed-responsive embed-responsive-16by9 mt-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/lVm_eg9Shwk" allowfullscreen></iframe>
 </div>
 
 ## Related Publications
