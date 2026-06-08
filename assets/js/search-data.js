@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-presentation-at-iros-2025",
+        },{id: "post-icra-2026",
+        
+          title: "ICRA 2026",
+        
+        description: "Presentation on fast motion planning for non-holonomic robots using a rectangular corridor abstraction of structured environments at IEEE ICRA 2026.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/icra2026/";
+          
+        },
+      },{id: "post-presentation-at-iros-2025",
         
           title: "Presentation at IROS 2025",
         
@@ -295,6 +306,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-self-reconfiguring-modular-robotic-boats-was-accepted-in-nature-communications-this-paper-introduces-floatform-a-modular-system-for-autonomous-self-assembly-and-collective-motion-on-water-this-is-a-result-of-a-multi-year-collaboration-that-began-during-my-time-as-a-visiting-researcher-at-mit",
           title: '“Self-Reconfiguring Modular Robotic Boats” was accepted in Nature Communications. This paper introduces FloatForm,...',
+          description: "",
+          section: "News",},{id: "news-i-recently-traveled-to-vienna-austria-for-icra-2026-i-presented-our-paper-on-fast-motion-planning-for-unicycle-like-robots-using-a-rectangular-corridor-abstraction-of-structured-environments",
+          title: 'I recently traveled to Vienna, Austria for ICRA 2026. I presented our paper...',
           description: "",
           section: "News",},{id: "projects-safe-distributed-motion-planning",
           title: 'Safe Distributed Motion Planning',
