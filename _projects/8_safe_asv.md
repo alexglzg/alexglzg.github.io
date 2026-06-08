@@ -14,7 +14,7 @@ Different systems operate in environments where safety-critical solutions are re
 </div>
 
 <div class="embed-responsive embed-responsive-16by9 mt-3">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/lVm_eg9Shwk" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MmQ3oSoCj54" allowfullscreen></iframe>
 </div>
 
 ## Related Publications
