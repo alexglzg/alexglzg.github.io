@@ -26,6 +26,12 @@ nav_order: 5
 ---
 ### Master's Thesis
 
+**Ernest Voets** (2024-2025)  
+*Thesis: "Safe Social Navigation in Corridor-Based Structured Environments: a Model Predictive Control Approach with Residual
+Reinforcement Learning and Control Barrier Functions"*
+
+---
+
 **Sebastiaan Wyns** (2024-2025)  
 *Thesis: "Efficient Free Space Representation for Robot Motion Planning Using Interconnected Rectangular Corridors"* [[Thesis PDF]](https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE57465975)
 
