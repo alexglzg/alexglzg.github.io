@@ -295,13 +295,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-on-fast-motion-planning-for-non-holonomic-amrs-was-accepted-to-icra-2026-this-research-is-part-of-the-arena-project-and-incorporates-thesis-contributions-from-a-master-s-student-i-co-advised-see-you-in-vienna",
+            },},{id: "news-our-paper-on-fast-motion-planning-for-non-holonomic-amrs-was-accepted-to-icra-2026-this-research-is-part-of-the-arena-project-and-incorporates-thesis-contributions-from-sebastiaan-a-former-master-s-student-i-co-advised",
           title: 'Our paper on fast motion planning for non-holonomic AMRs was accepted to ICRA...',
           description: "",
-          section: "News",},{id: "news-our-paper-on-safe-distributed-motion-planning-has-been-accepted-to-ecc-2026-this-publication-originated-from-the-thesis-work-of-two-former-master-s-students-i-co-advised",
+          section: "News",},{id: "news-our-paper-on-safe-distributed-motion-planning-has-been-accepted-to-ecc-2026-this-publication-originated-from-the-thesis-work-of-bavo-and-stan-two-former-master-s-students-i-co-advised",
           title: 'Our paper on safe distributed motion planning has been accepted to ECC 2026....',
           description: "",
-          section: "News",},{id: "news-our-paper-on-safe-time-optimal-point-to-point-motion-planning-and-control-was-accepted-to-ccta-2026-this-work-is-a-collaboration-with-a-tum-phd-researcher-who-visited-our-lab-at-ku-leuven",
+          section: "News",},{id: "news-our-paper-on-safe-time-optimal-point-to-point-motion-planning-and-control-was-accepted-to-ccta-2026-this-work-was-led-by-felix-a-tum-phd-researcher-who-visited-meco-at-ku-leuven",
           title: 'Our paper on safe time-optimal point-to-point motion planning and control was accepted to...',
           description: "",
           section: "News",},{id: "news-self-reconfiguring-modular-robotic-boats-was-accepted-in-nature-communications-this-paper-introduces-floatform-a-modular-system-for-autonomous-self-assembly-and-collective-motion-on-water-this-is-a-result-of-a-multi-year-collaboration-that-began-during-my-time-as-a-visiting-researcher-at-mit",
