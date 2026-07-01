@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on safe time-optimal point-to-point motion planning and control was accepted to CCTA 2026. This work is a collaboration with a TUM PhD researcher who visited our lab at KU Leuven.
+Our paper on safe time-optimal point-to-point motion planning and control was accepted to CCTA 2026. This work was led by Felix, a TUM PhD researcher who visited MECO at KU Leuven.
