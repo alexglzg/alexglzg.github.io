@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-03'
 papers:
   j5zC8uMAAAAJ:0EnyYjriUFMC:
     citations: 26
@@ -34,7 +34,7 @@ papers:
     title: Safe Motion Planning and Control Using Predictive and Adaptive Barrier Methods for Autonomous Surface Vessels
     year: '2025'
   j5zC8uMAAAAJ:MXK_kJrjxJIC:
-    citations: 30
+    citations: 31
     title: Deep Reinforcement Learning Based Tracking Control of an Autonomous Surface Vessel in Natural Waters
     year: '2023'
   j5zC8uMAAAAJ:Se3iqnhoufwC:
