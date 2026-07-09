@@ -26,7 +26,7 @@ nav_order: 5
 ---
 ### Master's Thesis
 
-**Ernest Voets** (2024-2025)  
+**Ernest Voets** (2025-2026)  
 *Thesis: "Safe Social Navigation in Corridor-Based Structured Environments: a Model Predictive Control Approach with Residual
 Reinforcement Learning and Control Barrier Functions"*
 
