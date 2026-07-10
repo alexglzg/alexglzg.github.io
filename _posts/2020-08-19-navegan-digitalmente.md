@@ -2,7 +2,7 @@
 layout: post
 title: Navegan Digitalmente y Ganan
 date: 2020-08-19
-description: Norte Monterrey coverage of VantTec winning RoboBoat 2020 despite COVID-19 challenges.
+description: El Norte Monterrey coverage of VantTec winning RoboBoat 2020 despite COVID-19 challenges.
 tags: media VantTec RoboBoat
 thumbnail: assets/img/blog/norte2020.jpg
 ---
