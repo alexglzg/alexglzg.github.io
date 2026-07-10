@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-icra-2026",
+        },{id: "post-tiny-robot-boats-build-floating-structures",
+        
+          title: "Tiny robot boats build floating structures",
+        
+        description: "MIT News feature on FloatForm, a swarm of small aquatic robots assembling into reconfigurable structures on the water.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/mitnews/";
+          
+        },
+      },{id: "post-icra-2026",
         
           title: "ICRA 2026",
         
@@ -184,7 +195,7 @@ ninja.data = [{
         
           title: "Navegan Digitalmente y Ganan",
         
-        description: "Norte Monterrey coverage of VantTec winning RoboBoat 2020 despite COVID-19 challenges.",
+        description: "El Norte Monterrey coverage of VantTec winning RoboBoat 2020 despite COVID-19 challenges.",
         section: "Posts",
         handler: () => {
           
