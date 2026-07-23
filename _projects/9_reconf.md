@@ -15,4 +15,4 @@ Self-reconfiguring boats offer promise for a wide range of marine applications, 
 
 ## Related Publications
 
-{% bibliography --query @*[project=reconf] %}
+{% bibliography --query @*[projects~=reconf] %}
