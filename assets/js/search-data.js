@@ -373,7 +373,7 @@ ninja.data = [{
           title: 'Safe Motion Planning and Control',
           description: "Optimization-based planning and control with safety guarantees.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_safe_asv/";
+              window.location.href = "/projects/8_safe_motion/";
             },},{id: "projects-self-reconfiguring-boats",
           title: 'Self-Reconfiguring Boats',
           description: "Modular robotic boats which can assembly into marine structures.",
