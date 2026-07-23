@@ -15,4 +15,4 @@ Based on the international [RoboBoat](http://roboboat.org/) competition, real-wo
 
 ## Related Publications
 
-{% bibliography --query @*[project=colav_asv] %}
+{% bibliography --query @*[projects~=colav_asv] %}

@@ -15,4 +15,4 @@ The complex nature of the ASV dynamics is an issue to develop mathematical model
 
 ## Related Publications
 
-{% bibliography --query @*[project=drl_asv] %}
+{% bibliography --query @*[projects~=drl_asv] %}

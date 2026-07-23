@@ -15,4 +15,4 @@ Unmanned Underwater Vehicles (UUVs) are disturbed by the environmental condition
 
 ## Related Publications
 
-{% bibliography --query @*[project=robust_uuv] %}
+{% bibliography --query @*[projects~=robust_uuv] %}

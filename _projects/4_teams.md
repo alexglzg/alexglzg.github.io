@@ -15,4 +15,4 @@ Unmanned Aerial Vehicles may cooperate with ASVs for different marine applicatio
 
 ## Related Publications
 
-{% bibliography --query @*[project=asv_uav] %}
+{% bibliography --query @*[projects~=asv_uav] %}

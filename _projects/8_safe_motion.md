@@ -19,4 +19,4 @@ Different systems operate in environments where safety-critical solutions are re
 
 ## Related Publications
 
-{% bibliography --query @*[project=safe_motion] %}
+{% bibliography --query @*[projects~=safe_motion] %}

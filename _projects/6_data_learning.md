@@ -16,4 +16,4 @@ Tuning controllers in practice is a challenge for control engineers. When system
 
 ## Related Publications
 
-{% bibliography --query @*[project=data_enabled] %}
+{% bibliography --query @*[projects~=data_enabled] %}
