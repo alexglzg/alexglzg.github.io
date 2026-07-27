@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-07-27'
 papers:
+  j5zC8uMAAAAJ:-f6ydRqryjwC:
+    citations: 0
+    title: Distributed Motion Planning with Safety Guarantees for Self-Reconfiguring Robotic Boats
+    year: '2026'
   j5zC8uMAAAAJ:0EnyYjriUFMC:
     citations: 26
     title: 'Novel adaptive law for super-twisting controller: USV tracking control under disturbances'
@@ -26,7 +30,7 @@ papers:
     title: Safe Polytope-in-Polytope Motion Planning and Control with Control Barrier Functions
     year: '2026'
   j5zC8uMAAAAJ:LkGwnXOMwfcC:
-    citations: 66
+    citations: 67
     title: Path-following and LiDAR-based obstacle avoidance via NMPC for an autonomous surface vehicle
     year: '2022'
   j5zC8uMAAAAJ:M3ejUd6NZC8C:
@@ -34,7 +38,7 @@ papers:
     title: Safe Motion Planning and Control Using Predictive and Adaptive Barrier Methods for Autonomous Surface Vessels
     year: '2025'
   j5zC8uMAAAAJ:MXK_kJrjxJIC:
-    citations: 33
+    citations: 34
     title: Deep Reinforcement Learning Based Tracking Control of an Autonomous Surface Vessel in Natural Waters
     year: '2023'
   j5zC8uMAAAAJ:Se3iqnhoufwC:
@@ -42,7 +46,7 @@ papers:
     title: Adaptive Integral Terminal Sliding Mode Guidance and Control for a UUV Under Perturbations
     year: '2022'
   j5zC8uMAAAAJ:Tyk-4Ss8FVUC:
-    citations: 195
+    citations: 197
     title: Guidance and Control Based on Adaptive Sliding Mode Strategy for a USV Subject to Uncertainties
     year: '2021'
   j5zC8uMAAAAJ:UeHWp8X0CEIC:
@@ -78,7 +82,7 @@ papers:
     title: Unmanned surface vehicle robust tracking control using an adaptive super-twisting controller
     year: '2024'
   j5zC8uMAAAAJ:_FxGoFyzp5QC:
-    citations: 70
+    citations: 71
     title: Finite-time control for an Unmanned Surface Vehicle based on adaptive sliding mode strategy
     year: '2022'
   j5zC8uMAAAAJ:_kc_bZDykSQC:
@@ -89,12 +93,16 @@ papers:
     citations: 17
     title: Adaptive Integral Terminal Sliding Mode Control for an Unmanned Surface Vehicle Against External Disturbances
     year: '2021'
+  j5zC8uMAAAAJ:hFOr9nPyWt4C:
+    citations: 28
+    title: "Gesti\xF3n del Conocimiento en Cuba: diseminaci\xF3n de sus resultados de investigaci\xF3n, de 1997-2010"
+    year: '2012'
   j5zC8uMAAAAJ:mVmsd5A6BfQC:
     citations: 0
     title: Fast Motion Planning for Non-Holonomic Mobile Robots via a Rectangular Corridor Representation of Structured Environments
     year: '2026'
   j5zC8uMAAAAJ:qUcmZB5y_30C:
-    citations: 0
+    citations: 1
     title: Self-reconfiguring modular robotic boats
     year: '2026'
   j5zC8uMAAAAJ:qjMakFHDy7sC:
