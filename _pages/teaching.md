@@ -37,17 +37,17 @@ Reinforcement Learning and Control Barrier Functions"*
 
 **Related Publications:**
 <div class="publications">
-  {% bibliography -f papers -q @*[html=https://arxiv.org/abs/2602.09714] %}
+  {% bibliography -f papers -q @*[preview={ICRA26.gif}] %}
 </div>
 
 ---
 
 **Stan Servaes & Bavo Tistaert** (2024-2025)  
-*Thesis: " Decentralised Motion Planning for Holonomic Multi-Agent Systems Using a Hybrid ADMM-CBF Approach: Application to Industrial Magnetic Levitation Platforms"* [[Thesis PDF]](https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE48018504)
+*Thesis: "Decentralised Motion Planning for Holonomic Multi-Agent Systems Using a Hybrid ADMM-CBF Approach: Application to Industrial Magnetic Levitation Platforms"* [[Thesis PDF]](https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE48018504)
 
 **Related Publications:**
 <div class="publications">
-  {% bibliography -f papers -q @*[html=https://arxiv.org/abs/2603.19838] %}
+  {% bibliography -f papers -q @*[preview={MagLevADMM-CBF.gif}] %}
 </div>
 
 
@@ -58,6 +58,6 @@ Reinforcement Learning and Control Barrier Functions"*
 
 **Related Publications:**
 <div class="publications">
-  {% bibliography -f papers -q @*[project=thesis_claes] %}
+  {% bibliography -f papers -q @*[projects~=thesis_claes] %}
 </div>
 
