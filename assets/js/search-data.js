@@ -327,7 +327,7 @@ ninja.data = [{
           section: "News",},{id: "news-multi-agent-motion-planning-on-industrial-magnetic-levitation-platforms-a-hybrid-admm-hocbf-approach-has-been-published-in-european-journal-of-control-this-publication-is-part-of-the-special-issue-on-the-european-control-conference-2026",
           title: '“Multi-Agent Motion Planning on Industrial Magnetic Levitation Platforms: A Hybrid ADMM-HOCBF approach” has...',
           description: "",
-          section: "News",},{id: "news-adaptive-unmanned-surface-vehicle-control-under-perturbations-with-a-tunable-settling-time-was-accepted-in-the-ieee-asme-transactions-on-mechatronics-this-work-representes-the-main-result-from-my-master-thesis-where-we-present-an-adaptive-integral-terminal-sliding-mode-formulation-for-trajectory-tracking",
+          section: "News",},{id: "news-adaptive-unmanned-surface-vehicle-control-under-perturbations-with-a-tunable-settling-time-was-accepted-in-the-ieee-asme-transactions-on-mechatronics-this-work-represents-the-main-result-from-my-master-thesis-where-we-present-an-adaptive-integral-terminal-sliding-mode-formulation-for-trajectory-tracking",
           title: '“Adaptive Unmanned Surface Vehicle Control Under Perturbations with a Tunable Settling Time” was...',
           description: "",
           section: "News",},{id: "projects-safe-distributed-motion-planning",
