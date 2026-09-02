@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-09-02'
 papers:
   j5zC8uMAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -46,7 +46,7 @@ papers:
     title: Adaptive Integral Terminal Sliding Mode Guidance and Control for a UUV Under Perturbations
     year: '2022'
   j5zC8uMAAAAJ:Tyk-4Ss8FVUC:
-    citations: 201
+    citations: 203
     title: Guidance and Control Based on Adaptive Sliding Mode Strategy for a USV Subject to Uncertainties
     year: '2021'
   j5zC8uMAAAAJ:UeHWp8X0CEIC:
@@ -78,7 +78,7 @@ papers:
     title: "Constant\u2010Rate Convergence for an Adaptive Sliding Mode Controller Using a Fixed\u2010Time Disturbance Observer"
     year: '2026'
   j5zC8uMAAAAJ:Zph67rFs4hoC:
-    citations: 16
+    citations: 17
     title: Unmanned surface vehicle robust tracking control using an adaptive super-twisting controller
     year: '2024'
   j5zC8uMAAAAJ:_FxGoFyzp5QC:
@@ -98,7 +98,7 @@ papers:
     title: Fast Motion Planning for Non-Holonomic Mobile Robots via a Rectangular Corridor Representation of Structured Environments
     year: '2026'
   j5zC8uMAAAAJ:qUcmZB5y_30C:
-    citations: 1
+    citations: 2
     title: Self-reconfiguring modular robotic boats
     year: '2026'
   j5zC8uMAAAAJ:qjMakFHDy7sC:
