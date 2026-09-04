@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-09-02'
+  last_updated: '2026-09-04'
 papers:
   j5zC8uMAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -38,7 +38,7 @@ papers:
     title: Safe Motion Planning and Control Using Predictive and Adaptive Barrier Methods for Autonomous Surface Vessels
     year: '2025'
   j5zC8uMAAAAJ:MXK_kJrjxJIC:
-    citations: 35
+    citations: 37
     title: Deep Reinforcement Learning Based Tracking Control of an Autonomous Surface Vessel in Natural Waters
     year: '2023'
   j5zC8uMAAAAJ:Se3iqnhoufwC:
@@ -46,7 +46,7 @@ papers:
     title: Adaptive Integral Terminal Sliding Mode Guidance and Control for a UUV Under Perturbations
     year: '2022'
   j5zC8uMAAAAJ:Tyk-4Ss8FVUC:
-    citations: 203
+    citations: 204
     title: Guidance and Control Based on Adaptive Sliding Mode Strategy for a USV Subject to Uncertainties
     year: '2021'
   j5zC8uMAAAAJ:UeHWp8X0CEIC:
@@ -54,7 +54,7 @@ papers:
     title: Control of an Unmanned Surface Vehicle Based on Adaptive Dynamic Programming and Deep Reinforcement Learning
     year: '2020'
   j5zC8uMAAAAJ:W7OEmFMy1HYC:
-    citations: 38
+    citations: 39
     title: USV Path-Following Control Based On Deep Reinforcement Learning and Adaptive Control
     year: '2020'
   j5zC8uMAAAAJ:WF5omc3nYNoC:
