@@ -37,7 +37,7 @@ Reinforcement Learning and Control Barrier Functions"*
 
 **Related Publications:**
 <div class="publications">
-  {% bibliography -f papers -q @*[preview={ICRA26.gif}] %}
+  {% bibliography -f papers -q @*[preview=ICRA26.gif] %}
 </div>
 
 ---
@@ -47,7 +47,7 @@ Reinforcement Learning and Control Barrier Functions"*
 
 **Related Publications:**
 <div class="publications">
-  {% bibliography -f papers -q @*[preview={MagLevADMM-CBF.gif}] %}
+  {% bibliography -f papers -q @*[preview=MagLevADMM-CBF.gif] %}
 </div>
 
 
