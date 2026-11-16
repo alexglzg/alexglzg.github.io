@@ -13,6 +13,7 @@ nav_order: 5
 
 | Period | Course | Institution |
 | :--- | :--- | :--- |
+| Fall 2026 | **Systems and Control Theory** | [KU Leuven] |
 | Fall 2025 | **Systems and Control Theory** | [KU Leuven] |
 | Fall 2024 | **Systems and Control Theory** | [KU Leuven] |
 | Spring 2024 | **Sensors and Measurement Systems** | [KU Leuven] |
@@ -28,7 +29,7 @@ nav_order: 5
 
 **Ernest Voets** (2025-2026)  
 *Thesis: "Safe Social Navigation in Corridor-Based Structured Environments: a Model Predictive Control Approach with Residual
-Reinforcement Learning and Control Barrier Functions"*
+Reinforcement Learning and Control Barrier Functions"* [[Thesis PDF]](https://repository.teneo.libis.be/delivery/DeliveryManagerServlet?dps_pid=IE85716675)
 
 ---
 
