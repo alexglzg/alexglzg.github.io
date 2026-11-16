@@ -29,7 +29,8 @@ nav_order: 5
 
 **Ernest Voets** (2025-2026)  
 *Thesis: "Safe Social Navigation in Corridor-Based Structured Environments: a Model Predictive Control Approach with Residual
-Reinforcement Learning and Control Barrier Functions"* [[Thesis PDF]](https://repository.teneo.libis.be/delivery/DeliveryManagerServlet?dps_pid=IE85716675)
+Reinforcement Learning and Control Barrier Functions"* [[Thesis PDF]](https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE85716675)
+
 
 ---
 
