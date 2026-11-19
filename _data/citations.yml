@@ -1,20 +1,20 @@
 metadata:
-  last_updated: '2026-09-04'
+  last_updated: '2026-11-20'
 papers:
   j5zC8uMAAAAJ:-f6ydRqryjwC:
     citations: 0
     title: Distributed Motion Planning with Safety Guarantees for Self-Reconfiguring Robotic Boats
     year: '2026'
   j5zC8uMAAAAJ:0EnyYjriUFMC:
-    citations: 27
+    citations: 30
     title: 'Novel adaptive law for super-twisting controller: USV tracking control under disturbances'
     year: '2023'
   j5zC8uMAAAAJ:3fE2CSJIrl8C:
-    citations: 18
+    citations: 21
     title: Robust model predictive control with control barrier functions for autonomous surface vessels
     year: '2024'
   j5zC8uMAAAAJ:4DMP91E08xMC:
-    citations: 0
+    citations: 2
     title: 'Optimizing unmanned surface vehicle control: A data-enabled learning approach'
     year: '2026'
   j5zC8uMAAAAJ:5nxA0vEk-isC:
@@ -22,39 +22,47 @@ papers:
     title: Adaptive sliding mode control for an autonomous surface vehicle subject to wind, waves, and currents
     year: '2022'
   j5zC8uMAAAAJ:7PzlFSSx8tAC:
-    citations: 0
+    citations: 2
     title: 'Multi-Agent Motion Planning on Industrial Magnetic Levitation Platforms: A Hybrid ADMM-HOCBF approach'
     year: '2026'
-  j5zC8uMAAAAJ:L8Ckcad2t8MC:
+  j5zC8uMAAAAJ:HDshCWvjkbEC:
     citations: 0
+    title: Safe and Time-Minimal Control for Overhead Cranes based on MPC and Control Barrier Functions
+    year: '2026'
+  j5zC8uMAAAAJ:L8Ckcad2t8MC:
+    citations: 1
     title: Safe Polytope-in-Polytope Motion Planning and Control with Control Barrier Functions
     year: '2026'
   j5zC8uMAAAAJ:LkGwnXOMwfcC:
-    citations: 69
+    citations: 73
     title: Path-following and LiDAR-based obstacle avoidance via NMPC for an autonomous surface vehicle
     year: '2022'
   j5zC8uMAAAAJ:M3ejUd6NZC8C:
-    citations: 1
+    citations: 3
     title: Safe Motion Planning and Control Using Predictive and Adaptive Barrier Methods for Autonomous Surface Vessels
     year: '2025'
   j5zC8uMAAAAJ:MXK_kJrjxJIC:
-    citations: 37
+    citations: 41
     title: Deep Reinforcement Learning Based Tracking Control of an Autonomous Surface Vessel in Natural Waters
     year: '2023'
   j5zC8uMAAAAJ:Se3iqnhoufwC:
     citations: 1
     title: Adaptive Integral Terminal Sliding Mode Guidance and Control for a UUV Under Perturbations
     year: '2022'
+  j5zC8uMAAAAJ:TQgYirikUcIC:
+    citations: 0
+    title: Interaction-Aware Sampling-Based Motion Planning for Autonomous Surface Vessels in Urban Waterways
+    year: '2026'
   j5zC8uMAAAAJ:Tyk-4Ss8FVUC:
-    citations: 204
+    citations: 218
     title: Guidance and Control Based on Adaptive Sliding Mode Strategy for a USV Subject to Uncertainties
     year: '2021'
   j5zC8uMAAAAJ:UeHWp8X0CEIC:
-    citations: 7
+    citations: 8
     title: Control of an Unmanned Surface Vehicle Based on Adaptive Dynamic Programming and Deep Reinforcement Learning
     year: '2020'
   j5zC8uMAAAAJ:W7OEmFMy1HYC:
-    citations: 39
+    citations: 40
     title: USV Path-Following Control Based On Deep Reinforcement Learning and Adaptive Control
     year: '2020'
   j5zC8uMAAAAJ:WF5omc3nYNoC:
@@ -62,7 +70,7 @@ papers:
     title: A Real-Time NMPC Guidance Law and Robust Control for an Autonomous Surface Vehicle
     year: '2021'
   j5zC8uMAAAAJ:Y0pCki6q_DkC:
-    citations: 67
+    citations: 68
     title: 'Adaptive dynamic programming and deep reinforcement learning for the control of an unmanned surface vehicle: Experimental results'
     year: '2021'
   j5zC8uMAAAAJ:YOwf2qJgpHMC:
@@ -70,7 +78,7 @@ papers:
     title: Adaptive sliding mode control with nonlinear MPC-based obstacle avoidance using LiDAR for an autonomous surface vehicle under disturbances
     year: '2024'
   j5zC8uMAAAAJ:YsMSGLbcyi4C:
-    citations: 20
+    citations: 21
     title: 'Robust visual tracking control based on adaptive sliding mode strategy: Quadrotor UAV-catamaran USV heterogeneous system'
     year: '2021'
   j5zC8uMAAAAJ:ZeXyd9-uunAC:
@@ -78,11 +86,11 @@ papers:
     title: "Constant\u2010Rate Convergence for an Adaptive Sliding Mode Controller Using a Fixed\u2010Time Disturbance Observer"
     year: '2026'
   j5zC8uMAAAAJ:Zph67rFs4hoC:
-    citations: 17
+    citations: 20
     title: Unmanned surface vehicle robust tracking control using an adaptive super-twisting controller
     year: '2024'
   j5zC8uMAAAAJ:_FxGoFyzp5QC:
-    citations: 76
+    citations: 84
     title: Finite-time control for an Unmanned Surface Vehicle based on adaptive sliding mode strategy
     year: '2022'
   j5zC8uMAAAAJ:_kc_bZDykSQC:
@@ -90,15 +98,19 @@ papers:
     title: Smooth Control Strategies for Path-Following on Computationally Constrained Mobile Robots with Discontinuous Localization
     year: '2025'
   j5zC8uMAAAAJ:eQOLeE2rZwMC:
-    citations: 17
+    citations: 19
     title: Adaptive Integral Terminal Sliding Mode Control for an Unmanned Surface Vehicle Against External Disturbances
     year: '2021'
+  j5zC8uMAAAAJ:mB3voiENLucC:
+    citations: 0
+    title: Adaptive Unmanned Surface Vehicle Control Under Perturbations With a Tunable Settling Time
+    year: '2026'
   j5zC8uMAAAAJ:mVmsd5A6BfQC:
     citations: 1
     title: Fast Motion Planning for Non-Holonomic Mobile Robots via a Rectangular Corridor Representation of Structured Environments
     year: '2026'
   j5zC8uMAAAAJ:qUcmZB5y_30C:
-    citations: 2
+    citations: 4
     title: Self-reconfiguring modular robotic boats
     year: '2026'
   j5zC8uMAAAAJ:qjMakFHDy7sC:
@@ -114,7 +126,7 @@ papers:
     title: 'Control of a Double Thruster Twin-Hull Unmanned Surface Vehicle: Experimental Results'
     year: '2019'
   j5zC8uMAAAAJ:ufrVoPGSRksC:
-    citations: 19
+    citations: 21
     title: "Adaptive integral terminal super\u2010twisting with finite\u2010time convergence for an unmanned surface vehicle under disturbances"
     year: '2022'
   j5zC8uMAAAAJ:zYLM7Y9cAGgC:
