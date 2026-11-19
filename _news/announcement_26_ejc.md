@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"Multi-Agent Motion Planning on Industrial Magnetic Levitation Platforms: A Hybrid ADMM-HOCBF approach" has been published in *European Journal of Control*. This publication is part of the Special Issue on the European Control Conference 2026.
+"Multi-Agent Motion Planning on Industrial Magnetic Levitation Platforms: A Hybrid ADMM-HOCBF approach" has been published in _European Journal of Control_. This publication is part of the Special Issue on the European Control Conference 2026.

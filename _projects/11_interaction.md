@@ -15,7 +15,6 @@ Autonomous vessels operating in urban environments must comply with existing rul
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RWphz_pbbQ4" allowfullscreen></iframe>
 </div>
 
-
 ## Related Publications
 
 {% bibliography --query @*[projects~=interaction] %}

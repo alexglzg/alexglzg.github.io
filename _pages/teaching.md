@@ -11,31 +11,32 @@ nav_order: 5
 
 ---
 
-| Period | Course | Institution |
-| :--- | :--- | :--- |
-| Fall 2026 | **Systems and Control Theory** | [KU Leuven] |
-| Fall 2025 | **Systems and Control Theory** | [KU Leuven] |
-| Fall 2024 | **Systems and Control Theory** | [KU Leuven] |
+| Period      | Course                              | Institution |
+| :---------- | :---------------------------------- | :---------- |
+| Fall 2026   | **Systems and Control Theory**      | [KU Leuven] |
+| Fall 2025   | **Systems and Control Theory**      | [KU Leuven] |
+| Fall 2024   | **Systems and Control Theory**      | [KU Leuven] |
 | Spring 2024 | **Sensors and Measurement Systems** | [KU Leuven] |
-| Fall 2023 | **Systems and Control Theory** | [KU Leuven] |
+| Fall 2023   | **Systems and Control Theory**      | [KU Leuven] |
 | Spring 2023 | **Sensors and Measurement Systems** | [KU Leuven] |
-| Fall 2022 | **Systems and Control Theory** | [KU Leuven] |
+| Fall 2022   | **Systems and Control Theory**      | [KU Leuven] |
 
 <br>
 
 ## Mentoring & Supervision
+
 ---
+
 ### Master's Thesis
 
 **Ernest Voets** (2025-2026)  
-*Thesis: "Safe Social Navigation in Corridor-Based Structured Environments: a Model Predictive Control Approach with Residual
-Reinforcement Learning and Control Barrier Functions"* [[Thesis PDF]](https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE85716675)
-
+_Thesis: "Safe Social Navigation in Corridor-Based Structured Environments: a Model Predictive Control Approach with Residual
+Reinforcement Learning and Control Barrier Functions"_ [[Thesis PDF]](https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE85716675)
 
 ---
 
 **Sebastiaan Wyns** (2024-2025)  
-*Thesis: "Efficient Free Space Representation for Robot Motion Planning Using Interconnected Rectangular Corridors"* [[Thesis PDF]](https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE57465975)
+_Thesis: "Efficient Free Space Representation for Robot Motion Planning Using Interconnected Rectangular Corridors"_ [[Thesis PDF]](https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE57465975)
 
 **Related Publications:**
 <div class="publications">
@@ -45,21 +46,19 @@ Reinforcement Learning and Control Barrier Functions"* [[Thesis PDF]](https://re
 ---
 
 **Stan Servaes & Bavo Tistaert** (2024-2025)  
-*Thesis: "Decentralised Motion Planning for Holonomic Multi-Agent Systems Using a Hybrid ADMM-CBF Approach: Application to Industrial Magnetic Levitation Platforms"* [[Thesis PDF]](https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE48018504)
+_Thesis: "Decentralised Motion Planning for Holonomic Multi-Agent Systems Using a Hybrid ADMM-CBF Approach: Application to Industrial Magnetic Levitation Platforms"_ [[Thesis PDF]](https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE48018504)
 
 **Related Publications:**
 <div class="publications">
   {% bibliography -f papers -q @*[preview=MagLevADMM-CBF.gif] %}
 </div>
 
-
 ---
 
 **Yannick Claes & Lucas Tielens** (2023 - 2024)  
-*Thesis: "Smooth control strategies for trajectory tracking on computationally constrained mobile robots with discontinuous localization"* [[Thesis PDF]](https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE19285551)
+_Thesis: "Smooth control strategies for trajectory tracking on computationally constrained mobile robots with discontinuous localization"_ [[Thesis PDF]](https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE19285551)
 
 **Related Publications:**
 <div class="publications">
   {% bibliography -f papers -q @*[projects~=thesis_claes] %}
 </div>
-
