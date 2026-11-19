@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-announcements",
+          title: "announcements",
+          description: "a full history of my announcements.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
         },{id: "post-tiny-robot-boats-build-floating-structures",
         
           title: "Tiny robot boats build floating structures",
