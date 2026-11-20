@@ -361,7 +361,7 @@ ninja.data = [{
               window.location.href = "/projects/2_colav_asv/";
             },},{id: "projects-learning-for-asvs",
           title: 'Learning for ASVs',
-          description: "Deep reinforcement learning for autonomous surface vessel control under disturnamces.",
+          description: "Deep reinforcement learning for autonomous surface vessel control under disturbances.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_drl_asv/";
             },},{id: "projects-asv-uav-heterogeneous-teams",
@@ -391,7 +391,7 @@ ninja.data = [{
               window.location.href = "/projects/8_safe_motion/";
             },},{id: "projects-self-reconfiguring-boats",
           title: 'Self-Reconfiguring Boats',
-          description: "Modular robotic boats which can assembly into marine structures.",
+          description: "Modular robotic boats which can assemble into marine structures.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_reconf/";
             },},{
