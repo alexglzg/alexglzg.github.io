@@ -1,14 +1,14 @@
 # Keys are lowercase last names with accents removed (e.g. Castañeda -> castaneda).
 # `firstname` lists every spelling used in _bibliography/papers.bib for that person.
 
-"swevers":
-  - firstname: ["Jan"]
-    url: https://scholar.google.com/citations?user=X_fnO1YAAAAJ&hl=en
+# "swevers":
+#   - firstname: ["Jan"]
+#     url: https://scholar.google.com/citations?user=X_fnO1YAAAAJ&hl=en
 
-"rus":
-  - firstname: ["Daniela"]
-    url: https://scholar.google.com/citations?user=910z20QAAAAJ&hl=en
+# "rus":
+#   - firstname: ["Daniela"]
+#     url: https://scholar.google.com/citations?user=910z20QAAAAJ&hl=en
 
-"castaneda":
-  - firstname: ["Herman", "H"]
-    url: https://scholar.google.com/citations?user=aAbtWIkAAAAJ&hl=en
+# "castaneda":
+#   - firstname: ["Herman", "H"]
+#     url: https://scholar.google.com/citations?user=aAbtWIkAAAAJ&hl=en
