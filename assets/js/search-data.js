@@ -308,12 +308,7 @@ ninja.data = [{
             window.location.href = "/blog/2017/primer-barco-robot/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-on-fast-motion-planning-for-non-holonomic-amrs-was-accepted-to-icra-2026-this-research-is-part-of-the-arena-project-and-incorporates-thesis-contributions-from-sebastiaan-a-former-master-s-student-i-co-advised",
+      },{id: "news-our-paper-on-fast-motion-planning-for-non-holonomic-amrs-was-accepted-to-icra-2026-this-research-is-part-of-the-arena-project-and-incorporates-thesis-contributions-from-sebastiaan-a-former-master-s-student-i-co-advised",
           title: 'Our paper on fast motion planning for non-holonomic AMRs was accepted to ICRA...',
           description: "",
           section: "News",},{id: "news-our-paper-on-safe-distributed-motion-planning-has-been-accepted-to-ecc-2026-this-publication-originated-from-the-thesis-work-of-bavo-and-stan-two-former-master-s-students-i-co-advised",
