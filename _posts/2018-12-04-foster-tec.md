@@ -3,7 +3,9 @@ layout: post
 title: Tiene Experiencia de Robótica en España
 date: 2018-12-04
 description: Tec de Monterrey coverage of participation in the Norman Foster Foundation Robotics Atelier alongside international specialists.
-tags: media robotics workshop
+categories: ["press"]
+tags: robotics
+language: es
 thumbnail: assets/img/blog/foster_tec2018.png
 ---
 

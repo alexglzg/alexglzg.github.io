@@ -3,6 +3,7 @@ layout: post
 title: Unmanned Surface Vehicle for the 2020 RoboBoat Competition
 date: 2020-08-20
 description: ROS Discourse post about VantTec's USV platform that won all categories at RoboBoat 2020.
+categories: ["press"]
 tags: VantTec RoboBoat ROS
 thumbnail: assets/img/blog/ros_discourse2020.png
 ---

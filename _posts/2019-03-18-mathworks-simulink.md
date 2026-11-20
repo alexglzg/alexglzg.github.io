@@ -3,7 +3,8 @@ layout: post
 title: Modeling Robotic Boats in Simulink — MathWorks Guest Post
 date: 2019-03-18
 description: Guest blog post on the MathWorks Racing Lounge about using MATLAB and Simulink for USV path planning and dynamic modeling.
-tags: media VantTec tutorial
+categories: ["press"]
+tags: VantTec Simulink
 thumbnail: assets/img/blog/mathworks2019.png
 ---
 

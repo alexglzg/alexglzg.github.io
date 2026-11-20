@@ -3,7 +3,9 @@ layout: post
 title: Crean Primer Barco Robot Mexicano
 date: 2017-11-29
 description: With the development of an unmanned autonomous vehicle, students from Tec de Monterrey stood out at the international RoboBoat 2017 competition.
-tags: media VantTec RoboBoat
+categories: ["press"]
+tags: VantTec RoboBoat
+language: es
 thumbnail: assets/img/blog/roboboat2017.jpg
 ---
 

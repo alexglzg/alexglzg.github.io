@@ -3,7 +3,9 @@ layout: post
 title: Triunfan Alumnos de Ingeniería en Competencia Internacional RoboBoat
 date: 2020-07-29
 description: VantTec wins first place in all categories at the international RoboBoat 2020 competition.
-tags: media VantTec RoboBoat
+categories: ["press"]
+tags: VantTec RoboBoat
+language: es
 thumbnail: assets/img/blog/roboboat2020_tec.jpg
 ---
 

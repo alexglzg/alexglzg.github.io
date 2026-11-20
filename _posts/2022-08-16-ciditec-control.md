@@ -3,7 +3,9 @@ layout: post
 title: Control Robusto para Barcos Autónomos — CIDiTec
 date: 2022-08-16
 description: CIDiTec video feature on developing algorithms to counteract external factors in autonomous boats.
-tags: media research ASV
+categories: ["press"]
+tags: ASV
+language: es
 thumbnail: assets/img/blog/ciditec2022.png
 ---
 

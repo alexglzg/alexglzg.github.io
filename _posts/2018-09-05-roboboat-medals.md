@@ -3,7 +3,9 @@ layout: post
 title: Sobresalen Alumnos del Tec en Torneo de Vehículos Autónomos Acuáticos
 date: 2018-09-05
 description: VantTec student team earns medals at the international RoboBoat competition.
-tags: media VantTec RoboBoat
+categories: ["press"]
+tags: VantTec RoboBoat
+language: es
 thumbnail: assets/img/blog/roboboat2018.jpg
 ---
 

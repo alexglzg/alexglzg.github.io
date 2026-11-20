@@ -3,7 +3,9 @@ layout: post
 title: Premio FAO - Jóvenes Destacados de Tamaulipas
 date: 2018-12-06
 description: Recognized with the FAO youth award in Tamaulipas for outstanding achievements.
+categories: ["press"]
 tags: award
+language: es
 thumbnail: assets/img/blog/premio_fao.jpg
 ---
 

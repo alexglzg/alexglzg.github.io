@@ -3,7 +3,9 @@ layout: post
 title: Neolaredense, Campeón Mundial en Robótica
 date: 2020-08-01
 description: El Mañana feature on winning the RoboBoat 2020 international competition.
-tags: media VantTec RoboBoat
+categories: ["press"]
+tags: VantTec RoboBoat
+language: es
 thumbnail: assets/img/blog/elmanana2020.jpg
 ---
 

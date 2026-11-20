@@ -3,7 +3,9 @@ layout: post
 title: Barcos Autónomos Diseñados Contra Viento y Marea
 date: 2022-01-14
 description: Transferencia Tec feature on designing more robust controllers for unmanned vessels navigating under environmental disturbances.
-tags: media research ASV
+categories: ["press"]
+tags: ASV
+language: es
 thumbnail: assets/img/blog/transferencia2022.png
 ---
 

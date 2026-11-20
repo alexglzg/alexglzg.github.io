@@ -1,14 +1,14 @@
 ---
 layout: default
 permalink: /blog/
-title: news & media
+title: media & events
 nav: true
 nav_order: 4
 pagination:
   enabled: true
   collection: posts
   permalink: /page/:num/
-  per_page: 5
+  per_page: 10
   sort_field: date
   sort_reverse: true
   trail:
@@ -137,6 +137,9 @@ pagination:
           </svg>
         {% else %}
           <a class="post-title" href="{{ post.redirect | relative_url }}">{{ post.title }}</a>
+        {% endif %}
+        {% if post.language == 'es' %}
+          <span class="badge badge-secondary align-middle" style="font-size: 0.6em" title="Article in Spanish">ES</span>
         {% endif %}
       </h3>
       <p>{{ post.description }}</p>

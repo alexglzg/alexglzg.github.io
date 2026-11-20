@@ -3,7 +3,9 @@ layout: post
 title: Capacidad y Talento Para Vencer
 date: 2018-02-23
 description: Milenio feature on Tec de Monterrey students who designed, programmed, and built a robot boat that won a prize in Florida.
-tags: media VantTec RoboBoat
+categories: ["press"]
+tags: VantTec RoboBoat
+language: es
 thumbnail: assets/img/blog/milenio2018.jpeg
 ---
 

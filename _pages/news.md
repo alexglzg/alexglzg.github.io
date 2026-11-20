@@ -1,8 +1,8 @@
 ---
 layout: page
-title: announcements
+title: news
 permalink: /news/
-description: a full history of my announcements.
+description: paper acceptances, awards, and other updates.
 nav: true
 nav_order: 6
 ---

@@ -90,7 +90,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: news & media # blog_name will be displayed in your blog page
+blog_name: media & events # blog_name will be displayed in your blog page
 blog_description:
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -270,8 +270,8 @@ jekyll-archives:
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
 
-display_tags: ["research", "media", "conference"] # these tags will be displayed on the front page of your blog
-# display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+# display_tags: [] # these tags will be displayed on the front page of your blog
+display_categories: ["press", "conferences", "talks & events"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

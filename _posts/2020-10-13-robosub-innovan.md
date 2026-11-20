@@ -3,7 +3,9 @@ layout: post
 title: "Innovan 'A Profundidad' en Concurso Internacional de Robótica"
 date: 2020-10-13
 description: VantTec se convirtió en el primer equipo mexicano en participar en RoboSub y ganó el tercer lugar general.
-tags: media VantTec RoboSub
+categories: ["press"]
+tags: VantTec RoboSub
+language: es
 thumbnail: assets/img/blog/robosub2020_es.jpg
 ---
 

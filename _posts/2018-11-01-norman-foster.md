@@ -3,7 +3,8 @@ layout: post
 title: Norman Foster Foundation Robotics Atelier 2018
 date: 2018-11-01
 description: Selected to participate in the second edition of the Norman Foster Foundation Robotics Atelier in Madrid, investigating new ways of reflecting on the physics of architecture.
-tags: robotics workshop
+categories: ["talks & events"]
+tags: workshop robotics
 thumbnail: assets/img/blog/foster2018.jpg
 ---
 
