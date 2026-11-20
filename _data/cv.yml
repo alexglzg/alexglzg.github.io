@@ -1,189 +1,232 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  name: Alejandro Gonzalez-Garcia
+  label: Ph.D. Researcher in Robotics
+  location: Leuven, Belgium
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
-
+  # Section order below is the order on the page (Experience is always rendered first).
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - position: Ph.D. Researcher
+        company: MECO Research Team, KU Leuven
+        location: Leuven, Belgium
+        url: https://www.mech.kuleuven.be/en/pma/research/meco
+        start_date: 2022-11
+        summary: Fast and safe motion planning for robotic systems.
+      - position: Recurring Visiting Researcher
+        company: Massachusetts Institute of Technology (CSAIL & Senseable City Lab)
+        location: Cambridge, MA, USA
+        start_date: 2021-07
+        end_date: 2024-12
         highlights:
-          - Relativity
-          - Description 2.
+          - Recurrent Ph.D. visits to CSAIL as part of a collaboration funded by the MIT International Science and Technology Initiatives (MISTI) MIT-Belgium KU Leuven Seed Fund.
+          - Robotics research contractor at the MIT Senseable City Lab, in collaboration with CSAIL and the AMS Institute.
+          - M.S. visiting student at the MIT Senseable City Lab, in collaboration with CSAIL and the AMS Institute.
+      - position: Graduate Researcher
+        company: National Robotics Lab, Tecnologico de Monterrey
+        location: Monterrey, Mexico
+        start_date: 2020-08
+        end_date: 2022-06
+        summary: Robust control for autonomous systems.
+      - position: Undergraduate Researcher
+        company: National Robotics Lab, Tecnologico de Monterrey
+        location: Monterrey, Mexico
+        start_date: 2019-08
+        end_date: 2019-12
+        summary: Mechanical design and robust control for unmanned surface vehicles (USVs).
+      - position: Undergraduate Research Trainee
+        company: Aerospace Mechatronics Lab, McGill University / HumanITas Solutions
+        location: Montreal, Canada
+        url: https://aerospacemechatronics.lab.mcgill.ca/
+        start_date: 2018-05
+        end_date: 2018-08
+        summary: Payload transportation with an unmanned aerial vehicle (UAV) using vision-based control.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+    Education:
+      - institution: KU Leuven
+        location: Leuven, Belgium
+        area: Mechanical Engineering (Robotics)
+        studyType: Ph.D.
+        start_date: 2022
+      - institution: Tecnologico de Monterrey
+        location: Monterrey, Mexico
+        area: Engineering (Robotics)
+        studyType: M.S.
+        start_date: 2020
+        end_date: 2022
+      - institution: Tecnologico de Monterrey
+        location: Monterrey, Mexico
+        area: Mechatronics Engineering
+        studyType: B.S.
+        start_date: 2015
+        end_date: 2020
+
+    Research Interests:
+      - name: Research
+        icon: fa-solid fa-robot
+        keywords: Autonomous Systems, Motion Planning, Robust/Adaptive Control, Safety-Critical Control, Obstacle Avoidance, Multi-Agent Systems, Reinforcement Learning
+
+    Selected Journal Publications:
+      - title: Self-Reconfiguring Modular Robotic Boats
+        publisher: Nature Communications
+        releaseDate: 2026
+        url: https://doi.org/10.1038/s41467-026-74527-6
+        summary: 'Wei Wang\*, Niklas Hagemann\*, **Alejandro Gonzalez-Garcia**\*, Carlo Ratti, and Daniela Rus'
+      - title: Adaptive Unmanned Surface Vehicle Control Under Perturbations with a Tunable Settling Time
+        publisher: IEEE/ASME Transactions on Mechatronics
+        releaseDate: 2026
+        url: https://doi.org/10.1109/TMECH.2026.3722096
+        summary: "**Alejandro Gonzalez-Garcia** and Herman Castañeda"
+      - title: Guidance and Control Based on Adaptive Sliding Mode Strategy for a USV Subject to Uncertainties
+        publisher: IEEE Journal of Oceanic Engineering
+        releaseDate: 2021
+        url: https://doi.org/10.1109/JOE.2021.3059210
+        summary: "**Alejandro Gonzalez-Garcia** and Herman Castañeda"
+
+    Selected Conference Publications:
+      - title: Fast Motion Planning for Non-Holonomic Mobile Robots via a Rectangular Corridor Representation of Structured Environments
+        publisher: IEEE International Conference on Robotics and Automation (ICRA)
+        releaseDate: 2026
+        url: https://doi.org/10.1109/ICRA57385.2026.11697280
+        summary: "**Alejandro Gonzalez-Garcia**, Sebastiaan Wyns, Sonia De Santis, Jan Swevers, and Wilm Decré"
+      - title: Safe Motion Planning and Control Using Predictive and Adaptive Barrier Methods for Autonomous Surface Vessels
+        publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+        releaseDate: 2025
+        url: https://doi.org/10.1109/IROS60139.2025.11247574
+        summary: "**Alejandro Gonzalez-Garcia**, Wei Xiao, Wei Wang, Alejandro Astudillo, Wilm Decré, Jan Swevers, Carlo Ratti, and Daniela Rus"
+      - title: Robust Model Predictive Control with Control Barrier Functions for Autonomous Surface Vessels
+        publisher: IEEE International Conference on Robotics and Automation (ICRA)
+        releaseDate: 2024
+        url: https://doi.org/10.1109/ICRA57147.2024.10610620
+        summary: 'Wei Wang\*, Wei Xiao\*, **Alejandro Gonzalez-Garcia**\*, Jan Swevers, Carlo Ratti, and Daniela Rus'
+      - title: "* equal contribution · Full list of publications →"
+        url: /publications/
+
+    Research Projects:
+      - position: Agile & Reliable Navigation (ARENA)
+        company: Flanders Make SBO project, KU Leuven
+        start_date: 2022-11
+        end_date: 2026-12
+        summary: Mobile robot motion planning in highly complex but structured environments.
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+          - Motion planning framework via a geometric abstraction of the free space.
+          - Simulation environments for multiple mobile robots, including unicycle (differential drive), bicycle, and truck-trailer systems.
+          - Experiment design for multiple motion planning frameworks in real-world environments.
+          - Experimental setup of a "mobile arena" to test autonomous behaviors on real-world robots.
+          - Deployment and maintenance (hardware and software) of multiple mobile robots, including commercial differential-drive platforms and truck(-trailer) prototypes.
+      - position: Roboat
+        company: MIT & AMS Institute
+        start_date: 2021-07
+        end_date: 2024-12
+        summary: Autonomous urban vessels.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Control system design and deployment for ASVs subject to payloads and disturbances.
+          - Motion planning for ASVs in urban environments, deployed in scaled environments.
+          - Framework design and algorithm development for a self-reconfiguring system of modular ASVs, deployed on real prototypes of the swarm system.
+          - Hardware and software development and maintenance of multiple ASV prototypes.
+      - position: VantTec
+        company: Student group, Tecnologico de Monterrey
+        url: https://www.vanttec.com/
+        start_date: 2017-01
+        end_date: 2022-11
+        summary: Research and development of unmanned autonomous vehicles. Head and researcher (2017–2020), then research advisor and mentor (2020–2022).
+        highlights:
+          - Teleoperation, mechanical design, and manufacturing of multiple USV prototypes.
+          - Mathematical modeling and identification of USV systems.
+          - Guidance, navigation, and control design, development, and deployment for USVs.
+          - Control systems research for UUV systems.
+          - Led software development for the simulation and autonomy stacks of USV and UUV systems.
+
+    Teaching:
+      - position: Teaching Assistant, Systems and Control Theory
+        company: KU Leuven
+        start_date: 2022
+        summary: Fall 2022, 2023, 2024, 2025, 2026
+      - position: Teaching Assistant, Sensors and Measurement Systems
+        company: KU Leuven
+        start_date: 2023
+        end_date: 2024
+        summary: Spring 2023, 2024
+
+    Supervision:
+      - position: Ernest Voets
+        company: M.S. thesis, KU Leuven
+        start_date: 2025
+        end_date: 2026
+        url: https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE85716675
+        summary: "Safe Social Navigation in Corridor-Based Structured Environments: a Model Predictive Control Approach with Residual Reinforcement Learning and Control Barrier Functions"
+      - position: Sebastiaan Wyns
+        company: M.S. thesis, KU Leuven
+        start_date: 2024
+        end_date: 2025
+        url: https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE57465975
+        summary: Efficient Free Space Representation for Robot Motion Planning Using Interconnected Rectangular Corridors
+      - position: Stan Servaes & Bavo Tistaert
+        company: M.S. thesis, KU Leuven
+        start_date: 2024
+        end_date: 2025
+        url: https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE48018504
+        summary: "Decentralised Motion Planning for Holonomic Multi-Agent Systems Using a Hybrid ADMM-CBF Approach: Application to Industrial Magnetic Levitation Platforms"
+      - position: Yannick Claes & Lucas Tielens
+        company: M.S. thesis, KU Leuven
+        start_date: 2023
+        end_date: 2024
+        url: https://repository.teneo.libis.be:443/delivery/DeliveryManagerServlet?dps_pid=IE19285551
+        summary: Smooth control strategies for trajectory tracking on computationally constrained mobile robots with discontinuous localization
+
+    Grants and Funding:
+      - title: MIT-Belgium – KU Leuven Seed Fund (MISTI)
+        date: 2023
+        summary: Grant for the project "Safe and Fast Motion Planning and Control for Autonomous Urban Boats using Model Predictive Control".
+      - title: CONACYT Graduate Scholarship
+        awarder: Mexican National Council of Science and Technology
+        date: 2020
+        summary: Monthly stipend for graduate studies.
+      - title: Tecnologico de Monterrey Graduate Scholarship
+        awarder: Tecnologico de Monterrey
+        date: 2020
+        summary: Full tuition for M.S. studies.
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Premio Rómulo Garza
+        awarder: Tecnologico de Monterrey
+        date: 2020
+        summary: National award for the best undergraduate research project at Tecnologico de Monterrey (2018–2020).
+      - title: Borrego por Liderazgo Estudiantil
+        awarder: Tecnologico de Monterrey
+        date: 2020
+        summary: University award for outstanding student leadership.
+      - title: Premio FAO
+        awarder: Tamaulipas State Government
+        date: 2018
+        summary: Outstanding Youth Award.
+      - title: Norman Foster Foundation Robotics Atelier
+        awarder: Norman Foster Foundation
+        date: 2018
+        summary: One of 10 international scholars selected.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+    Competitions:
+      - title: Advanced Techniques Award
+        awarder: International RoboBoat 2021
+        date: 2021
+        summary: Six awards in total.
+      - title: First Place
+        awarder: International RoboBoat 2020
+        date: 2020
+      - title: Third Place
+        awarder: International RoboSub 2020
+        date: 2020
+      - title: Finalist
+        awarder: International RoboBoat 2019
+        date: 2019
+      - title: Engineering Integrity Award
+        awarder: International RoboBoat 2018
+        date: 2018
+      - title: Special Drone Award
+        awarder: International RoboBoat 2017
+        date: 2017
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Service:
+      - label: Conference reviewer
+        details: ICRA, IROS, ECC
+      - label: Journal reviewer
+        details: IEEE Robotics and Automation Letters (RA-L), IEEE Robotics & Automation Magazine (RA-M), IEEE Transactions on Automation Science and Engineering (T-ASE), IEEE Transactions on Control Systems Technology (T-CST), Journal of Field Robotics

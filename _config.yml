@@ -180,7 +180,10 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
+  - AGENTS.md
+  - ANALYTICS.md
   - bin/
+  - CLAUDE.md
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
@@ -197,6 +200,10 @@ exclude:
   - purgecss.config.js
   - README.md
   - readme_preview/
+  - TROUBLESHOOTING.md
+  - SEO.md
+  - requirements.txt
+  - QUICKSTART.md
   - vendor
 keep_files:
   - CNAME
@@ -644,10 +651,6 @@ third_party_libraries:
 # -----------------------------------------------------------------------------
 # Get external JSON data
 # -----------------------------------------------------------------------------
-
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
 
 jsonresume:
   - basics
