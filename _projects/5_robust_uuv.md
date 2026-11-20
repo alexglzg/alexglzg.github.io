@@ -3,8 +3,8 @@ layout: page
 title: Robust Control of Underwater Vehicles
 description: Adaptive sliding mode control for unmanned underwater vehicles.
 img: assets/img/projects/robust_uuv.png
-importance: 5
-category: research
+importance: 4
+category: robust & learning-based control
 ---
 
 Unmanned Underwater Vehicles (UUVs) are disturbed by the environmental conditions, particularly from underwater currents. Likewise, mathematical model inaccuracies and unknown dynamics create an uncertain system. Hence, robust control approaches able to counteract such perturbations are relevant.

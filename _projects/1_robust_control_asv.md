@@ -3,8 +3,8 @@ layout: page
 title: Robust Control of ASVs
 description: Adaptive sliding mode control for autonomous surface vessels under environmental disturbances.
 img: assets/img/projects/aitsmc.png
-importance: 2
-category: research
+importance: 1
+category: robust & learning-based control
 ---
 
 Autonomous Surface Vehicles (ASVs) operate in complex environments subject to external disturbances from wind, waves, and currents. Furthermore, mathematical model discrepancies to the real system, such as unmodeled dynamics or parameter inaccuracies, induce uncertainty. Thus, robust control techniques are required to overcome disturbances and uncertainty, increasing safety, efficiency, and accuracy.

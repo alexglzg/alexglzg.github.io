@@ -3,8 +3,8 @@ layout: page
 title: ASV-UAV Heterogeneous Teams
 description: Control for marine-aerial robotic teams.
 img: assets/img/projects/usv-uav.png
-importance: 5
-category: research
+importance: 4
+category: multi-robot systems
 ---
 
 Unmanned Aerial Vehicles may cooperate with ASVs for different marine applications such as surveillance and inspection. However, different tasks need to be accomplished including visual tracking, take-off, and landing.

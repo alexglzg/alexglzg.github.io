@@ -5,7 +5,7 @@ permalink: /projects/
 description: #Projects.
 nav: true
 nav_order: 1
-display_categories: [research]
+display_categories: ["safe & fast motion planning", "multi-robot systems", "robust & learning-based control"]
 horizontal: false
 ---
 
@@ -14,7 +14,7 @@ horizontal: false
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
+  <a id="{{ category | slugify }}" href=".#{{ category | slugify }}">
     <h2 class="category">{{ category }}</h2>
   </a>
   {% assign categorized_projects = site.projects | where: "category", category %}

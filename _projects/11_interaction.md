@@ -3,8 +3,8 @@ layout: page
 title: Interaction-Aware Motion Planning
 description: Sampling-based motion planning for interactions in urban environments.
 img: assets/img/projects/interaction.png
-importance: 2
-category: research
+importance: 3
+category: multi-robot systems
 ---
 
 Autonomous vessels operating in urban environments must comply with existing rules and reason about the interactions with other agents. Ignoring these interactions risks the safety of all vessels. Additionally, knowledge of the other agents may be limited by communication or sensing constraints. Hence, designing motion planners which are decentralized and communication-free, while considering the potential actions of nearby agents is important.

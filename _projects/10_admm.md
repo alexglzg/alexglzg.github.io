@@ -4,7 +4,7 @@ title: Safe Distributed Motion Planning
 description: Distributed motion planning for multi-agent systems with safety guarantees.
 img: assets/img/projects/maglev.png
 importance: 2
-category: research
+category: multi-robot systems
 ---
 
 Multi-agent systems are useful for diverse industries and domains, as they can extend the capability of single-agent systems. To develop autonomous multi-agent systems, motion planning remains a challenge. Centralized solutions can solve for safe and even optimal motions for multiple agents, but they suffer as the number of agents grow, becoming intractable. Distributed solutions can help to overcome this issue, decoupling the complexity of the problem. Nevertheless, it is important to not sacrifice safety of the system for the sake of efficiency. How can we guarantee safe performance, while still achieving a certain level of performance?
