@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-news-amp-media",
-          title: "news &amp; media",
+        },{id: "nav-media-amp-events",
+          title: "media &amp; events",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -44,9 +44,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-announcements",
-          title: "announcements",
-          description: "a full history of my announcements.",
+        },{id: "nav-news",
+          title: "news",
+          description: "paper acceptances, awards, and other updates.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
