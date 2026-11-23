@@ -7,13 +7,12 @@ cv:
   sections:
     Experience:
       - position: Ph.D. Researcher
-        company: MECO Research Team, KU Leuven
+        company: "[MECO Research Team](https://www.mech.kuleuven.be/en/pma/research/meco), KU Leuven"
         location: Leuven, Belgium
-        url: https://www.mech.kuleuven.be/en/pma/research/meco
         start_date: 2022-11
         summary: Fast and safe motion planning for robotic systems.
       - position: Recurring Visiting Researcher
-        company: Massachusetts Institute of Technology (CSAIL & Senseable City Lab)
+        company: "Massachusetts Institute of Technology ([CSAIL](https://www.csail.mit.edu/research/distributed-robotics-laboratory) & [Senseable City Lab](https://senseable.mit.edu/))"
         location: Cambridge, MA, USA
         start_date: 2021-07
         end_date: 2024-12
@@ -22,21 +21,20 @@ cv:
           - Robotics research contractor at the MIT Senseable City Lab, in collaboration with CSAIL and the AMS Institute.
           - M.S. visiting student at the MIT Senseable City Lab, in collaboration with CSAIL and the AMS Institute.
       - position: Graduate Researcher
-        company: National Robotics Lab, Tecnologico de Monterrey
+        company: "[Cyber-Physical Systems group](https://tec.mx/en/research/cyber-physical-systems), Tecnologico de Monterrey"
         location: Monterrey, Mexico
         start_date: 2020-08
         end_date: 2022-06
         summary: Robust control for autonomous systems.
       - position: Undergraduate Researcher
-        company: National Robotics Lab, Tecnologico de Monterrey
+        company: "[Cyber-Physical Systems group](https://tec.mx/en/research/cyber-physical-systems), Tecnologico de Monterrey"
         location: Monterrey, Mexico
         start_date: 2019-08
         end_date: 2019-12
         summary: Mechanical design and robust control for unmanned surface vehicles (USVs).
       - position: Undergraduate Research Trainee
-        company: Aerospace Mechatronics Lab, McGill University / HumanITas Solutions
+        company: "[Aerospace Mechatronics Lab](https://aerospacemechatronics.lab.mcgill.ca/), McGill University / HumanITas Solutions"
         location: Montreal, Canada
-        url: https://aerospacemechatronics.lab.mcgill.ca/
         start_date: 2018-05
         end_date: 2018-08
         summary: Payload transportation with an unmanned aerial vehicle (UAV) using vision-based control.
@@ -102,39 +100,30 @@ cv:
         url: /publications/
 
     Research Projects:
+      - position: Co-Designing Safety, Control and Perception for Autonomous Outdoor Operation (COSAIN)
+        company: Flanders Make SBO project, KU Leuven
+        start_date: 2026-10
+        highlights:
+          - Research on motion planning, control, and safety, and mentoring of Ph.D. students.
       - position: Agile & Reliable Navigation (ARENA)
         company: Flanders Make SBO project, KU Leuven
         start_date: 2022-11
         end_date: 2026-12
-        summary: Mobile robot motion planning in highly complex but structured environments.
+        summary: Motion planning in complex but highly structured environments.
         highlights:
-          - Motion planning framework via a geometric abstraction of the free space.
-          - Simulation environments for multiple mobile robots, including unicycle (differential drive), bicycle, and truck-trailer systems.
-          - Experiment design for multiple motion planning frameworks in real-world environments.
-          - Experimental setup of a "mobile arena" to test autonomous behaviors on real-world robots.
-          - Deployment and maintenance (hardware and software) of multiple mobile robots, including commercial differential-drive platforms and truck(-trailer) prototypes.
+          - Motion planning framework based on a geometric abstraction of the free space.
+          - Simulation environments for unicycle, bicycle, and truck-trailer robots.
+          - Experimental "mobile arena" setup and deployment on differential-drive and truck-trailer robots.
       - position: Roboat
         company: MIT & AMS Institute
         start_date: 2021-07
         end_date: 2024-12
-        summary: Autonomous urban vessels.
+        summary: Autonomous vessels for urban waterways.
         highlights:
-          - Control system design and deployment for ASVs subject to payloads and disturbances.
-          - Motion planning for ASVs in urban environments, deployed in scaled environments.
-          - Framework design and algorithm development for a self-reconfiguring system of modular ASVs, deployed on real prototypes of the swarm system.
-          - Hardware and software development and maintenance of multiple ASV prototypes.
-      - position: VantTec
-        company: Student group, Tecnologico de Monterrey
-        url: https://www.vanttec.com/
-        start_date: 2017-01
-        end_date: 2022-11
-        summary: Research and development of unmanned autonomous vehicles. Head and researcher (2017–2020), then research advisor and mentor (2020–2022).
-        highlights:
-          - Teleoperation, mechanical design, and manufacturing of multiple USV prototypes.
-          - Mathematical modeling and identification of USV systems.
-          - Guidance, navigation, and control design, development, and deployment for USVs.
-          - Control systems research for UUV systems.
-          - Led software development for the simulation and autonomy stacks of USV and UUV systems.
+          - Control of ASVs subject to payloads and disturbances.
+          - Motion planning for ASVs in urban environments.
+          - Self-reconfiguring system of modular ASVs, deployed on physical prototypes.
+          - Hardware and software development of ASV prototypes.
 
     Teaching:
       - position: Teaching Assistant, Systems and Control Theory
@@ -203,6 +192,19 @@ cv:
         awarder: Norman Foster Foundation
         date: 2018
         summary: One of 10 international scholars selected.
+
+    Student Projects:
+      - position: VantTec
+        company: Student robotics group, Tecnologico de Monterrey
+        url: https://www.vanttec.com/
+        start_date: 2017-01
+        end_date: 2022-07
+        summary: Member (2017), General Director and then President (2017–2020), mentor (2020–2022).
+        highlights:
+          - System, software, and autonomy architect for the RoboBoat USVs.
+          - Mechanical design and construction of USV prototypes.
+          - Planning and control algorithms and simulation environments.
+          - Supervision of the RoboSub underwater robot project.
 
     Competitions:
       - title: Advanced Techniques Award

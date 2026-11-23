@@ -161,7 +161,11 @@ layout: default
               %}
                 {% assign entries = section_entries %}
                 {% include cv/awards.liquid %}
-              {% elsif section_title == 'Research Projects' or section_title == 'Teaching' or section_title == 'Supervision' %}
+              {% elsif section_title == 'Research Projects'
+                or section_title == 'Student Projects'
+                or section_title == 'Teaching'
+                or section_title == 'Supervision'
+              %}
                 {% assign entries = section_entries %}
                 {% include cv/experience.liquid %}
               {% elsif section_title contains 'Publications' %}
