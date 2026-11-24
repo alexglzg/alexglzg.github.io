@@ -1,10 +1,8 @@
 name: Update Google Scholar Citations
 
 on:
-  schedule:
-    - cron: "0 0 * * 1" # Monday
-    - cron: "0 0 * * 3" # Wednesday
-    - cron: "0 0 * * 5" # Friday
+  # Scheduled runs removed: Google Scholar blocks GitHub's servers, so citations
+  # are refreshed locally instead. Manual runs are still possible.
   workflow_dispatch:
 
 jobs:
